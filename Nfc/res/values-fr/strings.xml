@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Service NFC</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="permlab_nfcAdmin">Administration NFCEE</string>
+    <string name="permdesc_nfcAdmin">Permet le contrôle de l\'environnement matériel NFC</string>
+</resources>

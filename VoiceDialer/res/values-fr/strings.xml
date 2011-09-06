@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="voiceDialer">Commandes vocales</string>
+    <string name="tool_tip_title">Saviez vous que…</string>
+    <string name="tool_tip_message">Presser et maintenir le bouton vert d\'appel ouvre le Voice Dialer</string>
+    <string name="examples">\u0020Exemples: <b> \n\"Appeler Julien\" \n\"Appeler Julien à la maison, …\" \n\"Appeler la messagerie\" \n\"Appeler 0601020304\" \n\"Appeler le 112, …\" \n\"Appeler le +33 102030405\" \n\"Rappeler\" \n\"Ouvrir le calendrier\" </b>\u0020</string>
+    <string name="title">Commandes vocales</string>
+    <string name="bluetooth_title">Commandes vocales bluetooth</string>
+    <string name="initializing">Démarrage</string>
+    <string name="listening">Parlez…</string>
+    <string name="please_try_again">Recommencez</string>
+    <string name="failure">Echec</string>
+    <string name="recognition_error">Vous pouvez essayer de redémarrer votre système.</string>
+    <string name="headset_connection_lost">COnnexion au kit main-libres perdue.</string>
+    <string name="at_home">\u0020 à la maison</string>
+    <string name="on_mobile">\u0020 sur mobile</string>
+    <string name="at_work">\u0020 au travail</string>
+    <string name="at_other">\u0020 autre</string>
+    <string name="logging_enabled">Commandes vocales activées.</string>
+    <string name="logging_disabled">Commandes vocales désactivées.</string>
+    <string name="speak_now_tts">Parlez maintenant.</string>
+    <string name="no_results_tts">Aucun résultat, recommencez.</string>
+    <string name="invalid_choice_tts">Choix invalide.</string>
+    <string name="goodbye_tts">Au revoir.</string>
+</resources>

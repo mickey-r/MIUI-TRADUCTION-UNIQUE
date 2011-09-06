@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Barre d\'état</string>
+    <string name="status_bar_clear_all_button">Effacer</string>
+    <string name="status_bar_no_notifications_title">Aucune notification</string>
+    <string name="status_bar_ongoing_events_title">En cours</string>
+    <string name="status_bar_latest_events_title">Notifications</string>
+    <string name="battery_low_title">Branchez le chargeur</string>
+    <string name="battery_low_subtitle">Le niveau de la batterie est bas:</string>
+    <string name="battery_low_percent_format">Maximum %d %% restants.</string>
+    <string name="battery_low_why">Utilisation de la batterie</string>
+    <string name="tab_notifications_lable">Notifications</string>
+    <string name="tab_toggles_lable">Accès rapide</string>
+    <string name="tab_apps_lable">Applications</string>
+    <string name="apps_clean_title">Tuer les applications</string>
+    <string name="apps_clean_current_memory">Quantité de mémoire disponible: %1$s</string>
+    <string name="apps_clean_result">Mémoire libérée: %1$s\n. Actuellement la mémoire disponible est de: %2$s</string>
+    <string name="status_bar_time_format_12">h:mma</string>
+    <string name="status_bar_time_format_24">HH:mm</string>
+    <string name="status_bar_date_format">EEEE dd MMMM</string>
+    <string name="status_bar_date_format_lock">EEEE dd MMMM</string>
+    <string name="usb_accessory_permission_prompt">Autoriser l\'application %1$s à accéder à l\'accessoire USB ?</string>
+    <string name="usb_device_confirm_prompt">Ouvrir %1$s quand ce périphérique USB est connecté ?</string>
+    <string name="usb_accessory_confirm_prompt">Ouvrir %1$s quand cet accessoire USB est connecté ?</string>
+    <string name="usb_accessory_uri_prompt">Aucune application ne fonctionne avec cet accessoire USB. Plus d\'infos sur %1$s</string>
+    <string name="title_usb_accessory">Accessoire USB</string>
+    <string name="label_view">Voir</string>
+    <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
+    <string name="usb_mode_notification">Stockage USB</string>
+    <string name="usb_mode_mount_storage_summary">Les applications sur la carte SD ne pourront pas être exécutées</string>
+    <string name="usb_mode_dont_ask">Ne plus demander</string>
+    <string name="usb_mode_mount_storage_title">Ouvrir le stockage de données USB</string>
+    <string name="mount_storage">Monter</string>
+    <string name="dismount_storage">Démonter</string>
+    <string name="move_data_to_sdcard_title">Déplacer vers SD</string>
+    <string name="move_data_to_sdcard_message">Vous vous apprêtez à déplacer les données vers la carte SD</string>
+    <string name="user_guide_for_notification">Lorsque vous recevez une notification, faites glisser la barre de statut vers le bas</string>
+    <string name="user_guide_for_toggle">Faites défiler les réglages en accès rapide horizontalement</string>
+    <string name="user_guide_for_toggle_list">Ce bouton vous permettra de choisir les entrées qui apparaîtront</string>
+    <string name="user_guide_for_call">Pour revenir à l\'écran d\'appel, faites glisser la barre de statut vers le bas et cliquer sur la notification correspondante</string>
+</resources>
