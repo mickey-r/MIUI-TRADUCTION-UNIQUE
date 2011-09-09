@@ -16,7 +16,7 @@
     <string name="notealert_ok">Vu</string>
     <string name="notealert_enter">Visualiser</string>
     <string name="note_link_tel">Appeler</string>
-    <string name="note_link_email">e-mail</string>
+    <string name="note_link_email">E-mail</string>
     <string name="note_link_web">Surfer</string>
     <string name="note_link_other">Ouvrir la carte</string>
     <string name="file_path">/MIUI/notes/</string>
@@ -49,7 +49,7 @@
     <string name="info_note_enter_desktop">Note créée sur le bureau</string>
     <string name="alert_message_delete_folder">Confirmez-vous la suppression du dossier et des notes qu\'il contient ?</string>
     <string name="alert_title_delete">Supprimer les notes sélectionnées</string>
-    <string name="alert_message_delete_notes">Supprimer la note</string>
+    <string name="alert_message_delete_notes">Supprimer la note %d?</string>
     <string name="alert_message_delete_note">Confirmez-vous la suppression ?</string>
     <string name="format_move_notes_to_folder">%1$d notes sélectionnées ont été déplacées dans le dossier %2$s</string>
     <string name="error_sdcard_unmounted">La carte SD est déjà en cours d\'utilisation</string>

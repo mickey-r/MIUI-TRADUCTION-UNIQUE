@@ -52,6 +52,10 @@
     <string name="mailbox_name_display_sent">Éléments envoyés</string>
     <string name="mailbox_name_display_junk">Spam</string>
     <string name="debug_version_fmt">Version : %s</string>
+    <string name="debug_enable_debug_logging_label">Activer le log du débogage supplémentaire?</string>
+    <string name="debug_enable_sensitive_logging_label">Activer le log du débogage des informations sensibles? (Le mot de passe peut être visible dans les logs.)</string>
+    <string name="debug_enable_exchange_logging_label">Activer le log de l\'analyseur d\'échange? (Extrêmement verbeux)</string>
+    <string name="debug_enable_exchange_file_logging_label">Activer le log d\'échange avec la carte SD?</string>
     <string name="account_folder_list_separator_accounts">Comptes</string>
     <string name="account_folder_list_summary_inbox">Boîte de réception combinée</string>
     <string name="account_folder_list_summary_starred">Suivis</string>
@@ -213,12 +217,12 @@
     <string name="account_settings_ringtone">Sélectionner la sonnerie</string>
     <string name="account_settings_servers">Paramètres du serveur</string>
     <string name="account_delete_dlg_title">Supprimer le compte</string>
-    <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" va être supprimé de votre messagerie.</string>
+    <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" sera supprimé.</string>
     <string name="upgrade_accounts_title">Mettre les comptes à niveau</string>
     <string name="upgrade_accounts_error">Impossible de mettre le compte à niveau.</string>
     <string name="provider_note_live">Seuls certains comptes \"Plus\" comportent un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l\'adresse e-mail et le mot de passe corrects, vous ne disposez peut-être pas d\'un compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez votre navigateur Web.</string>
     <string name="provider_note_t_online">Avant de configurer ce compte de messagerie, veuillez consulter le site de T-Online et créer un mot de passe de messagerie POP3.</string>
-    <string name="exchange_name">Entreprise</string>
+    <string name="exchange_name">Exchange</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="meeting_accepted">Réunion acceptée : %s</string>
     <string name="meeting_declined">Réunion refusée : %s</string>
@@ -236,4 +240,6 @@
     <string name="notification_exchange_calendar_added">Agenda Exchange ajouté</string>
     <string name="gal_searching_fmt">Recherche en cours dans %s…</string>
     <string name="gal_completed_limited_fmt">%1$d premiers résultats de %2$s</string>
+    <string name="move_to_older">Précédent</string>
+    <string name="move_to_newer">Suivant</string>
 </resources>

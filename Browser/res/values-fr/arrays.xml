@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="bookmark_control_items">
-        <item>Créer nouveau répertoire</item>
-        <item>Créer nouveau favori</item>
+        <item>Créer dossier</item>
+        <item>Créer favori</item>
         <item>Importer favoris</item>
         <item>Exporter favoris</item>
     </string-array>
@@ -12,7 +12,7 @@
     <string-array name="pref_load_images_choice">
         <item>Activer</item>
         <item>Désactiver</item>
-        <item>Activer en WIFI</item>
+        <item>Activer en Wi-Fi</item>
     </string-array>
     <string-array name="pref_load_images_choice_value">
         <item>ON</item>
@@ -20,9 +20,9 @@
         <item>ON_FOR_WIFI</item>
     </string-array>
     <string-array name="pref_volume_setting_choice">
-        <item>Par défaut</item>
-        <item>Faites défiler la page</item>
-        <item>Switch Tab</item>
+        <item>Défaut</item>
+        <item>Défilement Page</item>
+        <item>Changement Onglet</item>
     </string-array>
     <string-array name="pref_volume_setting_choice_value">
         <item>DEFAULT</item>
@@ -30,17 +30,17 @@
         <item>SWITCH_TAB</item>
     </string-array>
     <string-array name="pref_volume_setting_enable_choice">
-        <item>Toujours appliquer le bouton de réglage du volume</item>
-        <item>Appliquer seulement si aucun jouer de la musique</item>
+        <item>Toujours appliquer les réglages du bouton de volume</item>
+        <item>Appliquer seulement lors de la lecture de musique</item>
     </string-array>
     <string-array name="pref_volume_setting_enable_choice_value">
         <item>ALWAYS</item>
         <item>ONLY_NO_MUSIC</item>
     </string-array>
     <string-array name="pref_reading_mode_choices">
-        <item>entre automatiquement en mode lecture</item>
-        <item>Entrez manuellement le mode de lecture</item>
-        <item>Fermer le mode de lecture</item>
+        <item>Automatique</item>
+        <item>Manuel</item>
+        <item>Fermer</item>
     </string-array>
     <string-array name="pref_reading_mode_values">
         <item>AUTO</item>
@@ -48,9 +48,9 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_forum_mode_choices">
-        <item>Automatiquement en mode Forum</item>
-        <item>Le mode manuel dans le Forum</item>
-        <item>mode forum Fermer</item>
+        <item>Automatique</item>
+        <item>Manuel</item>
+        <item>Fermer</item>
     </string-array>
     <string-array name="pref_forum_mode_values">
         <item>AUTO</item>
@@ -58,9 +58,9 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
-        <item>Toujours actif</item>
-        <item>Jamais actif</item>
-        <item>Toujours demander</item>
+        <item>Toujours</item>
+        <item>Jamais</item>
+        <item>Sur demande</item>
     </string-array>
     <string-array name="pref_content_plugins_values">
         <item>ON</item>
@@ -68,10 +68,10 @@
         <item>ON_DEMAND</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>Petite</item>
+        <item>Petit</item>
         <item>Normal</item>
-        <item>Grande</item>
-        <item>Très Grande</item>
+        <item>Grand</item>
+        <item>Géant</item>
     </string-array>
     <string-array name="pref_text_size_values">
         <item>SMALLER</item>
@@ -80,10 +80,10 @@
         <item>LARGEST</item>
     </string-array>
     <string-array name="pref_hide_buttons_in_fullscreen_choices">
-        <item>Montrer</item>
-        <item>Masquer précédent/suivant en mode plein écran</item>
+        <item>Afficher</item>
+        <item>Masquer précédent/suivant en mode plein-écran</item>
         <item>Masquer automatiquement</item>
-        <item>Ne jamais afficher les boutons flottants</item>
+        <item>Ne jamais afficher les boutons</item>
     </string-array>
     <string-array name="pref_hide_buttons_in_fullscreen_values">
         <item>NEEDED</item>
@@ -92,9 +92,9 @@
         <item>NEVER_SHOW</item>
     </string-array>
     <string-array name="pref_hide_statusbar_choices">
-        <item>Paramètres d\'affichage de la barre de notification</item>
-        <item>Masquer la barre de notification</item>
-        <item>Masquer automatiquement la barre de notification</item>
+        <item>Toujours afficher la barre d\'état</item>
+        <item>Toujours masquer la barre d\'état</item>
+        <item>Automatique</item>
     </string-array>
     <string-array name="pref_hide_statusbar_values">
         <item>ALWAYS_SHOW</item>
@@ -104,7 +104,7 @@
     <string-array name="pref_simple_mode_choices">
         <item>Désactiver</item>
         <item>Activer</item>
-        <item>Activer avec une connexion non wifi</item>
+        <item>Activer hors connexion Wi-Fi</item>
     </string-array>
     <string-array name="pref_simple_mode_values">
         <item>OFF</item>
@@ -115,7 +115,7 @@
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Unicode (UTF-8)</item>
         <item>Chinois simplifié (GBK)</item>
-        <item>Chinois traditionel (Big5)</item>
+        <item>Chinois traditionnel (Big5)</item>
         <item>Japonais (ISO-2022-JP)</item>
         <item>Japonais (SHIFT_JIS)</item>
         <item>Japonais (EUC-JP)</item>
@@ -140,7 +140,7 @@
         <item>CLOSE</item>
     </string-array>
     <string-array name="pref_user_agent_choices">
-        <item>Defaut android</item>
+        <item>Défaut</item>
         <item>Chrome Desktop</item>
         <item>iPhone 3</item>
         <item>iPhone 4</item>
@@ -155,8 +155,8 @@
     </string-array>
     <string-array name="pref_left_right_gesture_choices">
         <item>Aucun</item>
-        <item>Retour en avant</item>
-        <item>Onglets Switch</item>
+        <item>Précédent-Suivant</item>
+        <item>Changer onglets</item>
     </string-array>
     <string-array name="pref_left_right_gesture_choices_values">
         <item>NONE</item>
@@ -164,14 +164,14 @@
         <item>SWITCH_TABS</item>
     </string-array>
     <string-array name="pref_single_click_choices">
-        <item>Ouvrir le lien dans l\'onglet actuel</item>
-        <item>Ouvrir un lien dans un nouvel onglet et le commutateur</item>
-        <item>Ouvrir un lien dans un nouvel onglet en arrière-plan</item>
+        <item>Ouvrir dans l\'onglet courant</item>
+        <item>Ouvrir dans un nouvel onglet et l\'afficher</item>
+        <item>Ouvrir dans un nouvel onglet en arrière-plan</item>
     </string-array>
     <string-array name="pref_long_click_choices">
-        <item>Afficher le menu contextuel</item>
-        <item>Ouvrir un lien dans un nouvel onglet et le commutateur</item>
-        <item>Ouvrir un lien dans un nouvel onglet en arrière-plan</item>
+        <item>Afficher menu contextuel</item>
+        <item>Ouvrir dans un nouvel onglet et l\'afficher</item>
+        <item>Ouvrir dans un nouvel onglet en arrière-plan</item>
     </string-array>
     <string-array name="pref_link_choices_values">
         <item>DEFAULT</item>

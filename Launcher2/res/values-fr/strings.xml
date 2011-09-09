@@ -35,7 +35,7 @@
     <string name="menu_edit">Mode édition</string>
     <string name="menu_sort">Agencement du Bureau</string>
     <string name="menu_launcher_setting">Lanceur</string>
-    <string name="editing_tips">Edition des bureaux et positionnement des widgets</string>
+    <string name="editing_tips">Modifier ou ajouter un gadget</string>
     <string name="cant_remove_system_app">Impossible de supprimer une application système</string>
     <string name="uninstall_body_format">Voulez-vous désinstaller \"%s\"?</string>
     <string name="uninstall">Désinstaller</string>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MIUI-Theme>
-    <title>Sauvegarde de mon thème</title>
+    <title>Mon thème</title>
+    <designer></designer>
     <author></author>
     <version>1.0</version>
+    <uiVersion>1</uiVersion>
 </MIUI-Theme>

@@ -4,8 +4,8 @@
         <item quantity="other">%d chansons</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">%d Albums</item>
-        <item quantity="one">1 Album</item>
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
         <item quantity="other">Supprimé %d chansons.</item>

@@ -11,9 +11,26 @@
     <string name="alternates_for_y">ýÿ6</string>
     <string name="alternates_for_q" />
     <string name="alternates_for_w" />
+    <string name="alternates_for_d" />
+    <string name="alternates_for_r">4</string>
+    <string name="alternates_for_t">5</string>
     <string name="alternates_for_z">2</string>
+    <string name="alternates_for_l" />
+    <string name="alternates_for_g" />
+    <string name="alternates_for_p">0</string>
+    <string name="alternates_for_v" />
+    <string name="alternates_for_ae" />
+    <string name="alternates_for_oe" />
+    <string name="alternates_for_cyrillic_e" />
+    <string name="alternates_for_cyrillic_soft_sign" />
+    <string name="alternates_for_a_umlaut" />
+    <string name="alternates_for_o_umlaut" />
     <string name="word_separators">. ,;:!?\'\n()[]*&amp;@{}/&lt;>_+=|\"</string>
     <string name="sentence_separators">.,</string>
+    <string name="suggested_punctuations">!?,\"\':()-/@_</string>
+    <string name="settings_key_mode_auto">0</string>
+    <string name="settings_key_mode_always_show">1</string>
+    <string name="settings_key_mode_always_hide">2</string>
     <string name="english_ime_name">Clavier Android</string>
     <string name="english_ime_settings">Paramètres du clavier Android</string>
     <string name="english_ime_input_options">Options de saisie</string>
@@ -42,12 +59,15 @@
     <string name="show_suggestions_summary">Afficher les suggestions de terme lors de la saisie</string>
     <string name="auto_complete">Saisie semi-automatique</string>
     <string name="auto_complete_summary">Insérer auto. le terme surligné avec barre espace/ponctuation</string>
-    <string name="prefs_settings_key">Afficher la touche des paramètres</string>
+    <string name="prefs_settings_key">Afficher touche paramètr.</string>
     <string name="settings_key_mode_auto_name">Automatique</string>
     <string name="settings_key_mode_always_show_name">Toujours afficher</string>
     <string name="settings_key_mode_always_hide_name">Toujours masquer</string>
     <string name="bigram_suggestion">Suggestions de type bigramme</string>
     <string name="bigram_suggestion_summary">Améliorer la suggestion en fonction du mot précédent</string>
+    <string name="prediction_none">0</string>
+    <string name="prediction_basic">1</string>
+    <string name="prediction_full">2</string>
     <string name="added_word">%s : enregistré</string>
     <string name="tip_long_press">Maintenir une touche enfoncée pour afficher les accents (à, é, etc.)</string>
     <string name="tip_dismiss">Appuyez sur la touche Retour ↶ pour fermer le clavier à tout moment.</string>
@@ -90,6 +110,9 @@
     <string name="cancel">Annuler</string>
     <string name="ok">OK</string>
     <string name="voice_input">Saisie vocale</string>
+    <string name="voice_mode_main">0</string>
+    <string name="voice_mode_symbols">1</string>
+    <string name="voice_mode_off">2</string>
     <string name="auto_submit">Envoi automatique après la saisie vocale</string>
     <string name="auto_submit_summary">Appuyez automatiquement sur Entrée pour effectuer une recherche ou accéder au champ suivant.</string>
     <string name="open_the_keyboard"><font size="17"><b>Ouvrir le clavier\n</b></font><font size="3">\n</font>Appuyez sur un champ de texte.</string>
@@ -111,6 +134,13 @@
     <string name="prefs_enable_recorrection">Appuyer pour corriger les suggestions</string>
     <string name="prefs_enable_recorrection_summary">Appuyer sur les mots saisis pour les corriger</string>
     <string name="keyboard_layout">Thème du clavier</string>
+    <string name="layout_basic">Basic</string>
+    <string name="layout_high_contrast">Basic (constraté)</string>
+    <string name="layout_stone_bold">Stone (gras)</string>
+    <string name="layout_stone_normal">Stone (normal)</string>
+    <string name="layout_gingerbread">Gingerbread</string>
     <string name="subtype_mode_keyboard">clavier</string>
     <string name="subtype_mode_voice">voix</string>
+    <string name="english_ime_debug_settings">Réglages débogage clavier Android</string>
+    <string name="prefs_debug_mode">Mode débogage</string>
 </resources>

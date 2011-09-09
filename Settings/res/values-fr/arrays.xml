@@ -31,7 +31,7 @@
     <string-array name="access_control_app_entries">
         <item>Désactivé</item>
         <item>Masquer l\'icône sur le bureau</item>
-        <item>Protéger par motif</item>
+        <item>Protéger par schéma</item>
     </string-array>
     <string-array name="animations_summaries">
         <item>Aucune animation n\'est affichée.</item>
@@ -44,7 +44,7 @@
         <item>11</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>Blanc (par défaut)</item>
+        <item>Blanc</item>
         <item>Vert</item>
         <item>Rouge</item>
         <item>Bleu</item>
@@ -53,7 +53,7 @@
         <item>Rouge-Violet</item>
         <item>Rose</item>
         <item>Orange</item>
-        <item>Bleu saphir</item>
+        <item>Bleu azure</item>
     </string-array>
     <string-array name="led_color_values">
         <item>white</item>
@@ -68,16 +68,17 @@
         <item>\#add8e6</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>Par défaut(9 secondes)</item>
-        <item>2 secondes</item>
-        <item>3 secondes</item>
-        <item>4 secondes</item>
-        <item>5 secondes</item>
-        <item>6 secondes</item>
-        <item>7 secondes</item>
-        <item>8 secondes</item>
+        <item>9s</item>
+        <item>2s</item>
+        <item>3s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+        <item>7s</item>
+        <item>8s</item>
     </string-array>
     <string-array name="led_freq_values">
+        <item>9000</item>
         <item>2000</item>
         <item>3000</item>
         <item>4000</item>
@@ -85,7 +86,6 @@
         <item>6000</item>
         <item>7000</item>
         <item>8000</item>
-        <item>9000</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>30 sec</item>
@@ -391,7 +391,7 @@
     </string-array>
     <string-array name="usage_wifi_power_slices">
         <item>Puissance du wifi</item>
-        <item>Puissance de transmission du Wifi</item>
+        <item>Puissance de transmission du Wi-Fi</item>
     </string-array>
     <string-array name="usage_bluetooth_power_slices">
         <item>consommation Bluetooth</item>
@@ -437,8 +437,8 @@
         <item>Bleu</item>
         <item>Jaune</item>
         <item>Cyan</item>
-        <item>Orange</item>
         <item>Violet</item>
+        <item>Orange</item>
     </string-array>
     <string-array name="led_color_values_for_mione">
         <item>blue</item>
@@ -452,15 +452,15 @@
         <item>\#FF0033FF</item>
     </string-array>
     <string-array name="led_color_entries_for_mione">
-        <item>bleu</item>
-        <item>rouge</item>
-        <item>vert</item>
-        <item>jaune</item>
-        <item>orange</item>
-        <item>or</item>
-        <item>violet</item>
-        <item>rose</item>
-        <item>framboise</item>
+        <item>Bleu</item>
+        <item>Rouge</item>
+        <item>Vert</item>
+        <item>Jaune</item>
+        <item>Orange</item>
+        <item>Or</item>
+        <item>Violet</item>
+        <item>Rose</item>
+        <item>Framboise</item>
     </string-array>
     <string-array name="entries_light_filter_window">
         <item>10 s</item>

@@ -2,7 +2,7 @@
 <resources>
     <plurals name="notification_new_one_account_fmt">
         <item quantity="other">%1$d non lus (%2$s)</item>
-        <item quantity="one">%1$d non lus (%2$s)</item>
+        <item quantity="one">%1$d non lu (%2$s)</item>
         <item quantity="few">%1$d non lus (%2$s)</item>
     </plurals>
     <plurals name="notification_new_multi_account_fmt">

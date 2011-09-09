@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">MIUI Galerie</string>
+    <string name="app_name">Galerie</string>
     <string name="support_gif_animation">Afficher les .gif</string>
     <string name="support_gif_animation_summary">Peut affecter les performances et consomment plus de mémoire</string>
     <string name="filter_small_image">Filtrage des miniature</string>
@@ -17,7 +17,7 @@
     <string name="slideshow_category">Diaporama</string>
     <string name="slideshow_interval">Intervalle de temps (s)</string>
     <string name="slideshow_interval_dialog_title">Réglez l\'intervalle de temps (en secondes)</string>
-    <string name="slideshow_interval_invalid">Intervalle incorrect</string>
+    <string name="slideshow_interval_invalid">Intervalle de lecture invalide, retour aux réglages par défaut</string>
     <string name="animation_set">Animation</string>
     <string name="slideshow_repeat_mode">Boucle</string>
     <string name="global_setting">Paramètres</string>
@@ -27,11 +27,11 @@
     <string name="tab_favorite_title">Favoris</string>
     <string name="tab_all_folders_title">Tout</string>
     <string name="tab_folder_tree_title">Carte SD</string>
-    <string name="image_property">Propriétés</string>
-    <string name="video_property">Propriétés</string>
+    <string name="image_property">Propriétés de l\'image</string>
+    <string name="video_property">Propriétés de la vidéo</string>
     <string name="sort">Trier</string>
-    <string name="sort_by_name">Ordre croissant (A-Z)</string>
-    <string name="sort_by_name_reverse">Ordre décroissant (Z-A)</string>
+    <string name="sort_by_name">Croissant</string>
+    <string name="sort_by_name_reverse">Décroissant</string>
     <string name="sort_by_update_time">Date croissante</string>
     <string name="sort_by_update_time_reverse">Date décroissante</string>
     <string name="sort_by_size">Taille croissante</string>
@@ -46,7 +46,7 @@
     <string name="set_as_folder_cover">Définir comme couverture de l\'album</string>
     <string name="no_files">Aucun fichier</string>
     <string name="select_all">Tout sélectionner</string>
-    <string name="unselect_all">Tout effacer</string>
+    <string name="unselect_all">Annuler la selection</string>
     <string name="select_photo_hint">Cliquer pour choisir une image</string>
     <string name="confirm_delete_file">Êtes-vous sûr de vouloir supprimer?</string>
     <string name="confirm_delete_selected_files">La sélection sera supprimée définitivement de la carte SD</string>
@@ -60,7 +60,7 @@
     <string name="warn">Avertissement</string>
     <string name="folder">Dossier</string>
     <string name="file">Fichier</string>
-    <string name="enter_selection">Mode choix multiples</string>
+    <string name="enter_selection">Sélection multiple</string>
     <string name="send_single_video_hint_format">Envoyer la vidéo (Taille: %s)</string>
     <string name="send_single_image_hint_format">Envoyer la photo (Taille: %s)</string>
     <string name="send_multiple_files_hint_format">Envoyer (Taille totale: %s)</string>
@@ -78,12 +78,12 @@
     <string name="save_pic_to_success">Sauvegarde de l\'image réussie!</string>
     <string name="save_to_sdcard">Enregistrer sur la Carte SD</string>
     <string name="damaged_file">Le fichier est corrompu</string>
-    <string name="camera_folder_display_name">Photo</string>
-    <string name="miui_capture_screen_folder_display_name">Screenshots MIUI</string>
+    <string name="camera_folder_display_name">Album</string>
+    <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
     <string name="internal_camera_folder_display_name">PHOTOS</string>
     <string name="internal_miui_capture_screen_folder_display_name">CAPTURES</string>
-    <string name="miliao_folder_display_name">MiChat</string>
-    <string name="miliao_painting_folder_display_name">MiChat Painting</string>
+    <string name="miliao_folder_display_name">MiTalk</string>
+    <string name="miliao_painting_folder_display_name">Dessin MiTalk</string>
     <string name="must_pick_file">Vous devez d\'abord sélectionner une image</string>
     <string name="play_video">Lire</string>
     <string name="set_lock_or_wallpaper">Définir comme fond d\'écran</string>
@@ -140,21 +140,22 @@
     <string name="operation_info">Détails</string>
     <string name="operation_cancel">Annuler</string>
     <string name="operation_refresh">Actualiser</string>
-    <string name="no_file">Pas de photos ou de fichiers vidéo</string>
+    <string name="no_file">Pas de photos ou de vidéos</string>
     <string name="sd_folder">Carte SD</string>
     <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
-    <string name="file_info_title">Titre:</string>
+    <string name="file_info_title">Nom:</string>
     <string name="file_info_path">Chemin:</string>
     <string name="file_info_geo_location">Emplacement:</string>
     <string name="file_info_size">Taille:</string>
-    <string name="file_info_dimension">Taille:</string>
+    <string name="file_info_dimension">Dim.:</string>
     <string name="file_info_create_time">Création:</string>
-    <string name="file_info_duration">Longueur:</string>
+    <string name="file_info_duration">Durée:</string>
     <string name="no">Non</string>
     <string name="operation_deleting">Suppression...</string>
     <string name="confirm_know">OK</string>
     <string name="photo_adjust">Faites glisser le zoom pour ajuster l\'image</string>
-    <string name="select_photo">Sélectionnez une photo</string>
-    <string name="select_frame">Sélectionnez une image</string>
+    <string name="select_photo">Sélect. la photo</string>
+    <string name="select_frame">Sélect. le cadre</string>
     <string name="photo_confirm">Valider</string>
+    <string name="photo_load_failed">Echec de chargement de la photo!</string>
 </resources>

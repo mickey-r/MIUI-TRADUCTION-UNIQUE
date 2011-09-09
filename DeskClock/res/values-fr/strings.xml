@@ -10,7 +10,7 @@
     <string name="enable_alarm">Activer l\'alarme</string>
     <string name="disable_alarm">Désactiver l\'alarme</string>
     <string name="delete_alarm_confirm">Cette alarme va être supprimée.</string>
-    <string name="label">Label</string>
+    <string name="label">Libellé</string>
     <string name="default_label">Alarme</string>
     <string name="set_alarm">Régler l\'alarme</string>
     <string name="alarm_vibrate">Vibreur</string>

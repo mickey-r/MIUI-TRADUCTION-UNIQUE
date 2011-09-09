@@ -5,7 +5,7 @@
     <string name="app_label">Agenda</string>
     <string name="what_label">Objet</string>
     <string name="where_label">Lieu</string>
-    <string name="timezone_label">Fuseau horraire</string>
+    <string name="timezone_label">Fuseau horaire</string>
     <string name="attendees_label">Invités</string>
     <string name="response_label">%s (%d)</string>
     <string name="repeats_label">Fréquence</string>
@@ -56,11 +56,11 @@
     <string name="privacy_label">Confidentialité</string>
     <string name="reminders_label">Rappels</string>
     <string name="no_syncable_calendars">Pas d\'agenda</string>
-    <string name="no_calendars_found">Vous n\'avez pas d\'agenda.</string>
+    <string name="no_calendars_found">Un compte Google/Exchange est nécessaire pour voir ou éditer des évènements. Voulez-vous vous connecter maintenant?</string>
     <string name="content_description_edit_event_from_date">Du</string>
     <string name="content_description_edit_event_from_time">De</string>
     <string name="content_description_edit_event_to_date">Au</string>
-    <string name="content_description_edit_event_to_time">A</string>
+    <string name="content_description_edit_event_to_time">À</string>
     <string name="content_description_edit_event_reminders">Rappels</string>
     <string name="content_description_edit_event_remove_reminder">Supprimer le rappel</string>
     <string name="google_email_domain">gmail.com</string>
@@ -120,4 +120,6 @@
     <string name="prefDefault_alerts_vibrate_true">Toujours</string>
     <string name="prefDefault_alerts_vibrate_false">Jamais</string>
     <string name="prefDialogTitle_vibrateWhen">Vibreur</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
 </resources>

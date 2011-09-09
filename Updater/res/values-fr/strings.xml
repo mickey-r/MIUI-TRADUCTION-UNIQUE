@@ -57,9 +57,9 @@
     <string name="no_updates_warning">Aucune mise à jour détectée</string>
     <string name="no_updates_warning2">Aucune mise à jour détectée</string>
     <string name="new_updates_found_title">Nouvelle mise à jour détectée</string>
-    <string name="new_update_content_title">Une mise à jour est disponible</string>
+    <string name="new_update_content_title">Une mise à jour est disponible: %s</string>
     <string name="update_success_title">Vous avez la dernière version!</string>
-    <string name="update_success_body_title">Vous possédez déjà la version la plus récente du système</string>
+    <string name="update_success_body_title">Vous possédez la dernière version système</string>
     <string name="exception_while_downloading">Problème pendant le téléchargement</string>
     <string name="new_updates_found_body">De nouvelles mises à jour ont été détectées</string>
     <string name="new_updates_found_notification_title">Mises à jour disponibles!</string>
@@ -68,8 +68,8 @@
     <string name="test_version">Version de test</string>
     <string name="about_device">A propos de votre appareil</string>
     <string name="emegency_version">Version d\'urgence</string>
-    <string name="wifi_not_available_title">WIFI indisponible</string>
-    <string name="wifi_not_available_body">Le wifi est indisponible. Il est déconseillé de télécharger depuis une autre source réseau.</string>
+    <string name="wifi_not_available_title">Wi-Fi indisponible</string>
+    <string name="wifi_not_available_body">Le Wi-Fi est indisponible. Il est déconseillé de télécharger depuis une autre source réseau.</string>
     <string name="widget_title">Mise à jour MIUI</string>
     <string name="widget_feedback">Donnez votre avis</string>
     <string name="boot_recovery">Redémarrer en recovery</string>
@@ -83,14 +83,15 @@
     <string name="no_proper_updates">Pas de mise à jour adaptée</string>
     <string name="emegency_update_helper">Aide à la mise à jour</string>
     <string name="emegency_update_size">Taille:%s</string>
-    <string name="sign_in_info">Vous utilisez actuellement la ROM MIUI-FRANCE.com %3$s版</string>
+    <string name="sign_in_info">Vous utilisez actuellement la ROM MIUI-FRANCE.com %3$s</string>
     <string name="sign_in_add_account_helper">Si vous rencontrez des difficultés, rendez-vous sur MIUI.com</string>
     <string name="move_data_to_sdcard_title">Vers la carte SD</string>
-    <string name="move_data_to_sdcard_not_enough_space_message">Manque d\'espace libre sur la SD, libérez un minimum de %dM.</string>
-    <string name="moving_data_to_sdcard_message">Déplacement vers la carte SD</string>
-    <string name="moving_data_to_sdcard_progress_format">Déplacement en cours%1$dKB/Restant %2$dKB</string>
+    <string name="move_data_to_sdcard_not_enough_space_message">Besoin de migrer environ %dM de données, mais pas assez d\'espace libre sur la carte SD.</string>
+    <string name="moving_data_to_sdcard_message">Migration des données vers la carte SD, ne pas retirer celle-ci</string>
+    <string name="moving_data_to_sdcard_progress_format">Achevé: %1$dKB sur %2$dKB</string>
     <string name="finish_download">Téléchargement terminé</string>
     <string name="install_whole_rom">Installer la rom complète</string>
     <string name="check_update_policy">Vérifier lntégrité de la mise à jour</string>
-    <string name="check_update_when_wifi_available">Vérifier les mises à jour uniquement en wifi</string>
+    <string name="check_update_when_wifi_available">Vérifiez les MàJ qu\'en Wi-Fi</string>
+    <string name="install_file_explorer">Installer un explorateur de fichier SVP</string>
 </resources>

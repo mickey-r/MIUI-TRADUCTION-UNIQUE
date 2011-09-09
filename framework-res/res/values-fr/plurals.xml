@@ -88,22 +88,22 @@
         <item quantity="other">dans moins d\'une minute</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">il y a 1 h</item>
+        <item quantity="other">il y a 1h</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">il y a 1h</item>
+        <item quantity="other">il y a 30m</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">il y a 1 heure</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">il y a 1 heure</item>
+        <item quantity="other">il y a 30 minutes</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">dans 1h</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">dans 30 min.</item>
+        <item quantity="other">dans 30m</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">dans 1 heure</item>
