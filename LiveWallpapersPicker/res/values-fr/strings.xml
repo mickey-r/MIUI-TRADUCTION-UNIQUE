@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="application_name">Papier-peint animé</string>
+    <string name="live_wallpaper_picker_title">Papier-peint animé</string>
+    <string name="live_wallpaper_preview_title">Aperçu papier-peint animé</string>
+    <string name="configure_wallpaper">Réglages…</string>
+    <string name="wallpaper_instructions">Définir papier-peint</string>
+    <string name="live_wallpaper_empty">Pas de papier-peint animé.</string>
+    <string name="set_live_wallpaper">Définir papier-peint</string>
+    <string name="wallpaper_title_and_author">%1$s par %2$s</string>
+    <string name="live_wallpaper_loading">Chargement papier-peint animé…</string>
+</resources>

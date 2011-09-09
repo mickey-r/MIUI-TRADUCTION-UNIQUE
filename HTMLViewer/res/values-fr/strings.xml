@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Visualisateur HTML</string>
+    <string name="permlab_accessDrm">Accéder à des contenus DRM.</string>
+    <string name="permdesc_accessDrm">Permet à l\'application d\'accéder au contenu protégé par DRM.</string>
+</resources>
