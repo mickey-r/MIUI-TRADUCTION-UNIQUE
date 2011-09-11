@@ -68,11 +68,11 @@
     <string name="transformation_type_classic">Classique</string>
     <string name="transformation_type_classic_no_overshoot">Classique (sans rebond)</string>
     <string name="transformation_type_crossfade">Fondu</string>
-    <string name="transformation_type_falldown">Rotation</string>
+    <string name="transformation_type_falldown">Roue</string>
     <string name="transformation_type_cube">Cube</string>
     <string name="transformation_type_leftpage">Page</string>
     <string name="transformation_type_stack">Cascade</string>
-    <string name="transformation_type_rotate">Rotation 2</string>
+    <string name="transformation_type_rotate">Carroussel</string>
     <string name="widget_gadget_player">Lecteur 4x4</string>
     <string name="buffering">Chargement…</string>
     <string name="emptyplaylist">La playlist est vide</string>

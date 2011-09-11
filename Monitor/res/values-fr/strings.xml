@@ -2,9 +2,9 @@
 <resources>
     <string name="app_name">Moniteur</string>
     <string name="duration">Journal du %d/%d/%d au %d/%d/%d</string>
-    <string name="sms_unit">Messages</string>
+    <string name="sms_unit">SMS</string>
     <string name="mobile_unit">Mo</string>
-    <string name="first_traffic_day">Début de facturation</string>
+    <string name="first_traffic_day">Premier jour de facturation</string>
     <string name="auto_turn_off_mobile">Couper 2G/3G auto.</string>
     <string name="confirm_disable_monitor">Eteindre la surveillance arrêtera la journalisation du trafic, voulez-vous continuer?</string>
     <string name="menu_refresh">Actualiser</string>
@@ -33,8 +33,8 @@
     <string name="settings">Paramètres</string>
     <string name="mobile">2G/3G</string>
     <string name="wifi">Wi-Fi</string>
-    <string name="mobile_format">2G/3G: %s</string>
-    <string name="wifi_format">Wi-Fi: %s</string>
+    <string name="mobile_format">2G/3G:%s</string>
+    <string name="wifi_format">WI-FI:%s</string>
     <string name="android_system">Système Android</string>
     <string name="mobile_traffic">Seuil 2G/3G</string>
     <string name="call_sms_detail_title">Messages et appels ce mois-ci</string>
@@ -70,6 +70,6 @@
     <string name="no_sms">Journal de message vide.</string>
     <string name="loading_apps_list">Chargement de la liste des applications...</string>
     <string name="loading_apps_list_failed">Chargement de la liste des applications échoué!</string>
-    <string name="apply_rules_failed_known">Détailler</string>
-    <string name="apply_rules_failed">Le Pare-feu a échoué, essayez de nouveau SVP.</string>
+    <string name="apply_rules_failed_known">Echec</string>
+    <string name="apply_rules_failed">Echec de l\'opération</string>
 </resources>

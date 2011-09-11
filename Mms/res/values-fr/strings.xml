@@ -64,7 +64,7 @@
     <string name="unsupported_media_format">Format %1$s non pris en charge</string>
     <string name="select_different_media">Sélectionnez un autre %1$s.</string>
     <string name="exceed_message_size_limitation">Taille maximale atteinte pour ce message.</string>
-    <string name="message_too_big_for_video">Impossible de joindre un fichier vidéo. Le message est trop volumineux.</string>
+    <string name="message_too_big_for_video">Impossible de joindre une vidéo. Le message est trop volumineux.</string>
     <string name="message_too_big_for_audio">Impossible de joindre un fichier audio. Le message est trop volumineux.</string>
     <string name="failed_to_add_media">Désolé, vous ne pouvez pas ajouter cet élément à votre message : %1$s</string>
     <string name="failed_to_resize_image">L\'image n\'a pas été redimensionnée.</string>
@@ -162,7 +162,7 @@
     <string name="priority_normal">Normale</string>
     <string name="priority_low">Faible</string>
     <string name="message_class_label">Catégorie :</string>
-    <string name="error_code_label">Code d\'erreur :</string>
+    <string name="error_code_label">Code d\'erreur :</string>
     <string name="menu_edit">Modifier</string>
     <string name="menu_delete_messages">Supprimer les messages</string>
     <string name="menu_lock">Verrouiller le message</string>
@@ -183,9 +183,9 @@
     <string name="attach_image">Images</string>
     <string name="attach_take_photo">Photo</string>
     <string name="attach_video">Vidéos</string>
-    <string name="attach_record_video">Enr. vidéo</string>
+    <string name="attach_record_video">Faire une vidéo</string>
     <string name="attach_sound">Fichier audio</string>
-    <string name="attach_record_sound">Enr. message</string>
+    <string name="attach_record_sound">Enregistrer message</string>
     <string name="attach_slideshow">Diaporama</string>
     <string name="add_smiley">Smiley</string>
     <string name="add_phrase">Phrase</string>
@@ -193,7 +193,7 @@
     <string name="add_nickname">Pseudo</string>
     <string name="add_festival">Recommandé</string>
     <string name="add_nickname_title">Modification du pseudo</string>
-    <string name="edit_nickname_for_nocontact">Vous n\'avez pas ajouté de destinataire. veuillez ajouter un destinataire, puis cliquez sur édition.</string>
+    <string name="edit_nickname_for_nocontact">Vous n\'avez pas ajouté de destinataire. Veuillez ajouter un destinataire, puis cliquez sur édition.</string>
     <string name="edit_nickname_for_nocontact_by_robot">Une fois le destinataire ajouté, cliquez sur le Pseudo afin de le modifier</string>
     <string name="nickname_placeholder">Pseudo</string>
     <string name="select_bottom_text">Texte en bas de l\'écran</string>
@@ -294,7 +294,7 @@
     <string name="context_menu_new_contact">Nouveau contact</string>
     <string name="context_menu_add_contact">Ajouter aux contacts</string>
     <string name="context_menu_view_contact">Voir contact</string>
-    <string name="context_menu_contact">Contact: %1$s</string>
+    <string name="context_menu_contact">Contact : %1$s</string>
     <string name="pref_theme_modify">Personnaliser le thème</string>
     <string name="pref_sms_theme_title">Apparence et style</string>
     <string name="pref_conversation_show_avatar">Afficher avatar</string>
@@ -317,7 +317,7 @@
     <string name="new_phrase_hint">Entrer une nouvelle phrase</string>
     <string name="full_phrase">La phrase saisie dépasse 50 caractères</string>
     <string name="delete_phrase">Supprimer la phrase</string>
-    <string name="phrase_confirm_delete_message">La phrase sera supprimée</string>
+    <string name="phrase_confirm_delete_message">La phrase sélectionnée sera supprimée</string>
     <string name="pref_title_notification_body_enabled">Prévisualisation</string>
     <string name="pref_summary_notification_body_enabled">Prévisualiser les messages sur l\'écran de verrouillage et sur la barre de statut</string>
     <string name="pref_summary_notification_body_enabled_when_secure">La prévisualisation des messages est désactivée en mode visiteur</string>
@@ -344,7 +344,7 @@
     <string name="pref_key_signature_summary">Vous n\'avez pas réglé la signature, cliquez sur Paramètres</string>
     <string name="pref_key_signature_hint">Veuillez entrez votre signature</string>
     <string name="send_signature_confirm_dialog_title">Envoyer une confirmation</string>
-    <string name="send_signature_confirm_dialog_message">Vous n\'avez pas entrer de contenu, voulez-vous l\'envoyer?</string>
+    <string name="send_signature_confirm_dialog_message">Vous n\'avez pas entrer de contenu, voulez-vous l\'envoyer ?</string>
     <string name="enter_edit_mode">Modifier</string>
     <string name="exit_edit_mode">Quitter Modifier</string>
     <string name="check_all">Sélectionner tout</string>
@@ -354,17 +354,18 @@
     <string name="batch_deleting_progress_message">Suppression de la sélection</string>
     <string name="batch_deleting_message_progress_message">Supprimer le(s) message(s) choisi(s)</string>
     <string name="delete_subject">Supprimer</string>
-    <string name="messaging_intent_label">SMS/MMS</string>
+    <string name="messaging_intent_label">Message SMS/MMS</string>
     <string name="flatshow_page_no">Page %1$d</string>
     <string name="loading_contacts">Chargement des contacts...</string>
     <string name="prepare_send">Envoi en cours...</string>
     <string name="activity_not_found">Impossible d\'ouvrir la pièce jointe</string>
+    <string name="activity_not_found_uri">Pas de programme approprié trouvé</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="chenghu_disable_mms">La modification de l\'adresse MMS est invalide</string>
     <string name="recent_contact_list_title">Contacts récents</string>
     <string name="conversation_list_empty_text">Aucun message</string>
-    <string name="non_english_subject_limit">13 caractères maxi pour les sujets non anglophone</string>
+  <string name="non_english_subject_limit">Maximum 13 caractères pour un sujet non anglophone</string>
     <string name="text_in_popup_saved_to_clipboard">Le texte édité dans la fenêtre de prévisualisation a été copié dans le presse-papiers</string>
     <string name="guild_add_recipients">Cliquez ici pour ajouter les destinataires au carnet d\'adresses</string>
-    <string name="guild_add_attachments">Cliquez ici pour ajouter des pièces jointes ou smiley au message</string>
+    <string name="guild_add_attachments">Cliquez ici pour ajouter pièces jointes ou smileys au message</string>
 </resources>

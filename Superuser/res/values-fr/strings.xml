@@ -49,9 +49,9 @@
     <string name="enable_authority_message">Activer la surveillance des autorisations (système et tierce partie)</string>
     <string name="confirm_disable_authority">Désactiver la surveillance des autorisations désactivera également la surveillance des applications de tierce partie. Êtes vous certain de vouloir cela?</string>
     <string name="ask_for_root_permission_message">%s demande l\'autorisation d\'accès aux droits ROOT, voulez vous vraiment lui en laisser l\'accès?</string>
-    <string name="menu_setting">Réglages</string>
-    <string name="pref_root_permission_title">Permission ROOT</string>
-    <string name="pref_root_permission_summary">Permettre aux applications de demander la permission ROOT</string>
-    <string name="ask_for_root_permission_toast">%s demande la permission ROOT qui est désactivé par défaut afin d\'assurer la sécurité du système. Pour accepter, aller dans les réglages de Superuser.</string>
-    <string name="open_root_permission_message">L\'activer permettra aux applications de demander la permission ROOT.\nNote: Les applications avec cette permission peuvent causer des instabilitées du système, voir la perte de données personnelles, des dommages système ou matériel, soyez prudent SVP. Voulez-vous l\'activer?</string>
+    <string name="menu_setting">Paramètres</string>
+    <string name="pref_root_permission_title">Permissions ROOT</string>
+    <string name="pref_root_permission_summary">Permettre aux applications de demander les permissions ROOT</string>
+    <string name="ask_for_root_permission_toast">%s tente de demander les permissions ROOT qui sont désactivées par défaut pour votre sécurité. Vous pouvez les activer dans les paramètres de Superuser.</string>
+    <string name="open_root_permission_message">Activer ce paramètre permettra aux applications de demander les permissions ROOT.\nNote: Potentiellement, ces applications peuvent causer de sérieux dommages à votre appareil. Êtes vous certain de vouloir activer cette fonction?</string>
 </resources>

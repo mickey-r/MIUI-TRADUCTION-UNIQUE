@@ -50,10 +50,10 @@
         <item>Bleu</item>
         <item>Jaune</item>
         <item>Cyan</item>
-        <item>Rouge-Violet</item>
+        <item>Pourpre</item>
         <item>Rose</item>
         <item>Orange</item>
-        <item>Bleu azure</item>
+        <item>Bleu azur</item>
     </string-array>
     <string-array name="led_color_values">
         <item>white</item>
@@ -68,14 +68,14 @@
         <item>\#add8e6</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>9s</item>
-        <item>2s</item>
-        <item>3s</item>
-        <item>4s</item>
-        <item>5s</item>
-        <item>6s</item>
-        <item>7s</item>
-        <item>8s</item>
+        <item>9 sec</item>
+        <item>2 sec</item>
+        <item>3 sec</item>
+        <item>4 sec</item>
+        <item>5 sec</item>
+        <item>6 sec</item>
+        <item>7 sec</item>
+        <item>8 sec</item>
     </string-array>
     <string-array name="led_freq_values">
         <item>9000</item>

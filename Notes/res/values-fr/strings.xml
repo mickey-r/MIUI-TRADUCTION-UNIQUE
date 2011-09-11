@@ -101,4 +101,5 @@
     <string name="search_setting_description">Texte dans vos notes</string>
     <string name="search">Notes</string>
     <string name="search_empty">Notes correspondantes</string>
+    <string name="preferences_bg_random_appear_summary">Couleur de fond aléatoire des nouvelles notes</string>
 </resources>

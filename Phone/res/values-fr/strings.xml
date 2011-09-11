@@ -338,7 +338,7 @@
     <string name="touchLockText">Appuyez deux fois\npour déverrouiller</string>
     <string name="onscreenHoldText">En attente</string>
     <string name="onscreenEndCallText">Fin</string>
-    <string name="onscreenSpeakerText">Ht. parleurs</string>
+    <string name="onscreenSpeakerText">Ht-parleur</string>
     <string name="onscreenMuteText">Silencieux</string>
     <string name="onscreenAddCallText">Autre appel</string>
     <string name="onscreenMergeCallsText">Fusionner les appels</string>
@@ -451,7 +451,7 @@
     <string name="handon_ringer_title">Fondu</string>
     <string name="handon_ringer_summary">En continu lorsque le vibreur est activé pour les appels entrants.</string>
     <string name="allow_3rd_app_listen_phone_event_title">Anti écoutes</string>
-    <string name="allow_3rd_app_listen_phone_event_summary">Empèche votre téléphone d\'être sur écoute</string>
+    <string name="allow_3rd_app_listen_phone_event_summary">Empêche votre téléphone d\'être sur écoute</string>
     <string name="show_quick_contact_badge_title">Avatars</string>
     <string name="set_smsc_address_title">Numéro du centre de messagerie</string>
     <string name="get_smsc_address_error">Impossible d\'obtenir le numéro du centre de messagerie, essayez plus tard SVP.</string>
@@ -494,7 +494,7 @@
     <string name="voice_quality_ui_values_bright">Claire</string>
     <string name="auto_answer_pref_entries_no">Pas de réponse auto</string>
     <string name="auto_answer_pref_entries_immediately">Répondre immédiatement</string>
-    <string name="auto_answer_pref_entries_delay_5s">Répondre après 5s</string>
+    <string name="auto_answer_pref_entries_delay_5s">Répondre après 5 secondes</string>
     <string name="prefered_network_type_pref_entries_3g_prefered">3G de préférence</string>
     <string name="prefered_network_type_pref_entries_only_2g">2G uniquement</string>
     <string name="prefered_network_type_pref_entries_only_3g">3G uniquement</string>
@@ -505,9 +505,9 @@
     <string name="pin_progress_unlock_icc">Déblocage de la carte SIM…</string>
     <string name="simContacts_empty_add_contact_hint">Appuyez sur la touche menu pour ajouter un contact</string>
     <string name="answer_features_setting_title">Fonctions pour les appels entrants</string>
-    <string name="answer_features_setting_summary">Réglages pour muet par retournement, capteur de proximité, etc. pendant les appels entrants</string>
+    <string name="answer_features_setting_summary">Paramètres divers liés aux appels entrants</string>
     <string name="icc_related_setting_title">Paramètres appels entrants et sortants</string>
-    <string name="icc_related_setting_summary">Transfert d\'appel, mise en attente, numéros autorisés et autres réglages lié au réseau</string>
+    <string name="icc_related_setting_summary">Paramètres liés à votre réseau</string>
     <string name="incoming_call_guide">Glissez vers le haut pour refuser l\'appel</string>
     <string name="lable_call_privileged">Appel sortant</string>
     <string name="goPrivate">Mode privé</string>

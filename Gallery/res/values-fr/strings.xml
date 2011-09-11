@@ -157,5 +157,5 @@
     <string name="select_photo">Sélect. la photo</string>
     <string name="select_frame">Sélect. le cadre</string>
     <string name="photo_confirm">Valider</string>
-    <string name="photo_load_failed">Echec de chargement de la photo!</string>
+    <string name="photo_load_failed">Chargement de la photo échoué!</string>
 </resources>

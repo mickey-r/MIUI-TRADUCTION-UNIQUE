@@ -19,7 +19,7 @@
     <string name="logging_enabled">Numéroteur vocal activé.</string>
     <string name="logging_disabled">Numéroteur vocal désactivé.</string>
     <string name="speak_now_tts">Parlez maintenant.</string>
-    <string name="no_results_tts">Acun résultats, réessayez.</string>
+    <string name="no_results_tts">Aucun résultat, réessayez.</string>
     <string name="invalid_choice_tts">Choix invalide.</string>
     <string name="goodbye_tts">Au revoir.</string>
 </resources>

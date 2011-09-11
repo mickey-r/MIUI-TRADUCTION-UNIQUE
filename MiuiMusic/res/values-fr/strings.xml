@@ -117,7 +117,7 @@
     <string name="fade_effect_settings">Effets de transition</string>
     <string name="feedback_thanks">Merci</string>
     <string name="download_lyric_summary">Vous pouvez désactiver ce paramètre pour économiser la consommation réseau.</string>
-    <string name="download_album_summary">Utiliser des pochettes d\'album. Utilise du trafic réseau et peut entraîner des coûts élevés.</string>
+    <string name="download_album_summary">Utiliser des pochettes d\'album utilise du trafic réseau et peut entraîner des coûts élevés.</string>
     <string name="listen_to_online_summary">Utilise du trafic réseau et peut entraîner des coûts élevés</string>
     <string name="flow_save_hint_summary">Confirmer l\'opération par une fenêtre pop-up à chaque fois</string>
     <string name="android_album_summary">Utiliser automatiquement les pochettes d\'album</string>
@@ -237,8 +237,8 @@
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-    <string name="url_default_lyric">http://120.195.13.122/q?title=%s&amp;artist=%s</string>
-    <string name="url_album">http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&amp;album=%s&amp;artist=%s</string>
+    <string name="url_default_lyric">http://120.195.13.122/q?title=%1$s&amp;artist=%2$s</string>
+    <string name="url_album">http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&amp;album=%1$s&amp;artist=%2$s</string>
     <string name="url_feedback">http://sj.xiaomi.com/miniphp/ajax.php</string>
     <string name="url_update">http://xshare.api.xiaomi.com/player</string>
     <string name="url_debug_update">http://intranet.xiaomi.com/player</string>

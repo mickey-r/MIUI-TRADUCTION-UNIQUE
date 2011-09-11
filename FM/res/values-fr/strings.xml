@@ -30,7 +30,7 @@
     <string name="station_name">Station</string>
     <string name="hint_station_name">Veuillez entrez un nom</string>
     <string name="edit_station">Edition des stations</string>
-    <string name="station_name_already_used">Nom déjà utiliser, essayer un autre nom.</string>
+    <string name="station_name_already_used">Nom déjà utilisé, essayez un autre nom.</string>
     <string name="menu_edit">Modifier</string>
     <string name="menu_delete">Supprimer</string>
     <string name="menu_jump">Changer de station</string>
@@ -71,5 +71,5 @@
     <string name="quit_warining">La radio s\'arrêtera après %d minutes</string>
     <string name="min_time">1</string>
     <string name="max_time">90</string>
-    <string name="default_time">30 mins</string>
+    <string name="default_time">30 minutes</string>
 </resources>

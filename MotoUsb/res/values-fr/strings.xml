@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="usb_period">.</string>
+    <string name="usb_ok">OK</string>
+    <string name="usb_cancel">Annuler</string>
+    <string name="usb_3_periods">...</string>
+    <string name="usb_toast_connecting_to">Connexion à</string>
+    <string name="usb_toast_phone_data_disabled">Les données internes seront désactivées.</string>
+    <string name="usb_no_memory_card_notification_title">Pas de carte SD inserée</string>
+    <string name="usb_no_memory_card_notification_message_title">Carte SD manquante</string>
+    <string name="usb_no_memory_card_notification_message">Inserez une carte SD svp</string>
+    <string name="usb_selection_notification_title">Connexion USB</string>
+    <string name="usb_selection_notification_message">Gestion de votre connexion USB</string>
+    <string name="usb_selection_notification_message_for_modem">Touchez pour déconnecter et ré-activer les données internes du téléphone</string>
+    <string name="usb_connection">Connexion USB</string>
+    <string name="usb_mode_ngp">Outils PC Motorola</string>
+    <string name="usb_mode_mtp">Windows Media Sync</string>
+    <string name="usb_mode_msc">Accès carte SD</string>
+    <string name="usb_mode_modem">Utiliser comme Modem</string>
+    <string name="usb_mode_none">Charge seule</string>
+    <string name="usb_mode_bypass">Modem CDMA</string>
+    <string name="usb_toast_insert_card">Insert une carte SD pour vos media.</string>
+    <string name="usb_progress_message">Change en</string>
+    <string name="usb_error_message">La connexion USB ne peut pas changer en</string>
+</resources>

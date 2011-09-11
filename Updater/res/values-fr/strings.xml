@@ -6,10 +6,10 @@
     <string name="download_whole_rom">Télécharger la ROM entière(%s)</string>
     <string name="download_ota_rom">Télécharger la ROM par OTA(%s)</string>
     <string name="apply_later_button_text">Mettre à jour plus tard</string>
-    <string name="switch_system">Changer vers l\'autre branche MIUI</string>
+    <string name="switch_system">Changer de système</string>
     <string name="start_update">Appliquer la mise à jour</string>
     <string name="applying_update">Application de la mise à jour</string>
-    <string name="apply_update_guide">Cliquez pour mettre à jour</string>
+    <string name="apply_update_guide">La mise à jour est appliquée en arrière-plan.</string>
     <string name="apply_update_fail">Application échouée</string>
     <string name="apply_update_refuse">La mise à jour ne peut être appliquée</string>
     <string name="view_install_log">Voir le journal d\'installation</string>
@@ -17,7 +17,7 @@
     <string name="install_email">Email d\'installation</string>
     <string name="send_install_log_error">Le journal d\'installation n\'a pas pu être envoyé.</string>
     <string name="copy_install_log">Copier le journal d\'installation</string>
-    <string name="reboot_to_new_system">Redémarrer pour finaliser le processus</string>
+    <string name="reboot_to_new_system">Redémarrer pour terminer l\'installation</string>
     <string name="update_success">Mise à jour réussie</string>
     <string name="mione_update_success_title">Mise à jour réussie</string>
     <string name="mione_update_success_description">La mise à jour a été appliquée avec succès</string>
@@ -59,7 +59,7 @@
     <string name="new_updates_found_title">Nouvelle mise à jour détectée</string>
     <string name="new_update_content_title">Une mise à jour est disponible: %s</string>
     <string name="update_success_title">Vous avez la dernière version!</string>
-    <string name="update_success_body_title">Vous possédez la dernière version système</string>
+    <string name="update_success_body_title">Vous possédez déjà la version la plus récente du système</string>
     <string name="exception_while_downloading">Problème pendant le téléchargement</string>
     <string name="new_updates_found_body">De nouvelles mises à jour ont été détectées</string>
     <string name="new_updates_found_notification_title">Mises à jour disponibles!</string>
@@ -91,7 +91,7 @@
     <string name="moving_data_to_sdcard_progress_format">Achevé: %1$dKB sur %2$dKB</string>
     <string name="finish_download">Téléchargement terminé</string>
     <string name="install_whole_rom">Installer la rom complète</string>
-    <string name="check_update_policy">Vérifier lntégrité de la mise à jour</string>
-    <string name="check_update_when_wifi_available">Vérifiez les MàJ qu\'en Wi-Fi</string>
-    <string name="install_file_explorer">Installer un explorateur de fichier SVP</string>
+    <string name="check_update_policy">Vérifier le md5sum</string>
+    <string name="check_update_when_wifi_available">Vérifier les MàJ qu\'en Wi-Fi</string>
+    <string name="install_file_explorer">Installer un gestionnaire de fichiers</string>
 </resources>

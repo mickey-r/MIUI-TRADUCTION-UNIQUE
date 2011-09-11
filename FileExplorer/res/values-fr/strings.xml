@@ -7,10 +7,10 @@
     <string name="category_apk">Applis</string>
     <string name="category_document">Docs</string>
     <string name="category_favorite">Favoris</string>
-    <string name="category_music">Audio</string>
+    <string name="category_music">Audios</string>
     <string name="category_other">Autres</string>
     <string name="category_picture">Photos</string>
-    <string name="category_theme">Themes</string>
+    <string name="category_theme">Thèmes</string>
     <string name="category_title">Gestion des documents</string>
     <string name="category_video">Vidéos</string>
     <string name="category_zip">Zips</string>

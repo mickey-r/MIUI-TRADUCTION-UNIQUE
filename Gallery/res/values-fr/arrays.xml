@@ -3,11 +3,11 @@
     <string-array name="animation">
         <item>Aucune</item>
         <item>Fondu</item>
-        <item>Rotation</item>
+        <item>Roue</item>
         <item>Page</item>
         <item>Cascade</item>
-        <item>Rotation 2</item>
-        <item>Cube</item>
+        <item>Rotation</item>
+        <item>Cube 3D</item>
         <item>Fondu recouvrant</item>
     </string-array>
     <string-array name="animation_value">

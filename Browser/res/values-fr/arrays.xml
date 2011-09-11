@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="bookmark_control_items">
-        <item>Créer dossier</item>
-        <item>Créer favori</item>
+        <item>Créer nouveau répertoire</item>
+        <item>Créer nouveau favori</item>
         <item>Importer favoris</item>
         <item>Exporter favoris</item>
     </string-array>
@@ -20,8 +20,8 @@
         <item>ON_FOR_WIFI</item>
     </string-array>
     <string-array name="pref_volume_setting_choice">
-        <item>Défaut</item>
-        <item>Défilement Page</item>
+        <item>Par défaut</item>
+        <item>Faites défiler la page</item>
         <item>Changement Onglet</item>
     </string-array>
     <string-array name="pref_volume_setting_choice_value">
@@ -31,16 +31,16 @@
     </string-array>
     <string-array name="pref_volume_setting_enable_choice">
         <item>Toujours appliquer les réglages du bouton de volume</item>
-        <item>Appliquer seulement lors de la lecture de musique</item>
+        <item>Appliquer seulement hors lecture d\'une musique</item>
     </string-array>
     <string-array name="pref_volume_setting_enable_choice_value">
         <item>ALWAYS</item>
         <item>ONLY_NO_MUSIC</item>
     </string-array>
     <string-array name="pref_reading_mode_choices">
-        <item>Automatique</item>
-        <item>Manuel</item>
-        <item>Fermer</item>
+        <item>Entrer automatiquement en mode lecture</item>
+        <item>Entrer manuellement en mode de lecture</item>
+        <item>Fermer le mode de lecture</item>
     </string-array>
     <string-array name="pref_reading_mode_values">
         <item>AUTO</item>
@@ -48,9 +48,9 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_forum_mode_choices">
-        <item>Automatique</item>
-        <item>Manuel</item>
-        <item>Fermer</item>
+        <item>Entrer automatiquement en mode Forum</item>
+        <item>Entrer manuellement en mode Forum</item>
+        <item>Fermer le mode Forum</item>
     </string-array>
     <string-array name="pref_forum_mode_values">
         <item>AUTO</item>
@@ -58,9 +58,9 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
-        <item>Toujours</item>
-        <item>Jamais</item>
-        <item>Sur demande</item>
+        <item>Toujours actif</item>
+        <item>Jamais actif</item>
+        <item>Toujours demander</item>
     </string-array>
     <string-array name="pref_content_plugins_values">
         <item>ON</item>
@@ -80,10 +80,10 @@
         <item>LARGEST</item>
     </string-array>
     <string-array name="pref_hide_buttons_in_fullscreen_choices">
-        <item>Afficher</item>
-        <item>Masquer précédent/suivant en mode plein-écran</item>
+        <item>Montrer</item>
+        <item>Masquer précédent/suivant en mode plein écran</item>
         <item>Masquer automatiquement</item>
-        <item>Ne jamais afficher les boutons</item>
+        <item>Ne jamais afficher les boutons flottants</item>
     </string-array>
     <string-array name="pref_hide_buttons_in_fullscreen_values">
         <item>NEEDED</item>
