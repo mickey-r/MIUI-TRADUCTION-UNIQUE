@@ -25,7 +25,7 @@
     <string name="alternates_for_cyrillic_soft_sign" />
     <string name="alternates_for_a_umlaut" />
     <string name="alternates_for_o_umlaut" />
-    <string name="word_separators">. ,;:!?\'\n()[]*&amp;@{}/&lt;>_+=|\"</string>
+    <string name="word_separators">. ,;:!?\'\n()[]*&amp;@{}/&lt;&gt;_+=|\"</string>
     <string name="sentence_separators">.,</string>
     <string name="suggested_punctuations">!?,\"\':()-/@_</string>
     <string name="settings_key_mode_auto">0</string>
@@ -34,9 +34,9 @@
     <string name="english_ime_name">Clavier Android</string>
     <string name="english_ime_settings">Paramètres du clavier Android</string>
     <string name="english_ime_input_options">Options de saisie</string>
-    <string name="vibrate_on_keypress">Vibrer à chaque touche</string>
-    <string name="sound_on_keypress">Son à chaque touche</string>
-    <string name="popup_on_keypress">Agrandir les caractères à chaque touche</string>
+    <string name="vibrate_on_keypress">Touches vibrantes</string>
+    <string name="sound_on_keypress">Touches sonnores</string>
+    <string name="popup_on_keypress">Agrandir les caractères</string>
     <string name="hit_correction">Corriger les fautes de frappe</string>
     <string name="hit_correction_summary">Activer la correction des erreurs de saisie</string>
     <string name="hit_correction_land">Erreurs de saisie en mode paysage</string>
@@ -56,10 +56,10 @@
     <string name="quick_fixes">Corrections rapides</string>
     <string name="quick_fixes_summary">Corrige les fautes de frappe courantes</string>
     <string name="show_suggestions">Afficher les suggestions</string>
-    <string name="show_suggestions_summary">Afficher les suggestions de terme lors de la saisie</string>
+    <string name="show_suggestions_summary">Suggère des mots du dictionnaire lors de la saisie</string>
     <string name="auto_complete">Saisie semi-automatique</string>
-    <string name="auto_complete_summary">Insérer auto. le terme surligné avec barre espace/ponctuation</string>
-    <string name="prefs_settings_key">Afficher touche paramètr.</string>
+    <string name="auto_complete_summary">Insére automatiquement la 1ère suggestion en appuyant sur la barre espace</string>
+    <string name="prefs_settings_key">Touche paramètres</string>
     <string name="settings_key_mode_auto_name">Automatique</string>
     <string name="settings_key_mode_always_show_name">Toujours afficher</string>
     <string name="settings_key_mode_always_hide_name">Toujours masquer</string>
@@ -123,24 +123,28 @@
     <string name="popular_domain_1">.net</string>
     <string name="popular_domain_2">.org</string>
     <string name="popular_domain_3">.gouv</string>
-    <string name="popular_domain_4">.edu</string>
+    <string name="popular_domain_4">.fr</string>
     <string name="selectInputMethod">Sélectionner un mode de saisie.</string>
     <string name="language_selection_title">Langues de saisie</string>
     <string name="language_selection_summary">Faites glisser votre doigt sur la barre d\'espacement pour changer la langue.</string>
-    <string name="hint_add_to_dictionary">← Appuyer de nouveau pour enregistrer</string>
+    <string name="hint_add_to_dictionary">← Réappuyer pour enregistrer</string>
     <string name="has_dictionary">Dictionnaire disponible</string>
     <string name="prefs_enable_log">Autoriser les commentaires des utilisateurs</string>
     <string name="prefs_description_log">Contribuer à l\'amélioration de cet éditeur du mode de saisie grâce à l\'envoi automatique de statistiques d\'utilisation et de rapports d\'incident à Google.</string>
-    <string name="prefs_enable_recorrection">Appuyer pour corriger les suggestions</string>
-    <string name="prefs_enable_recorrection_summary">Appuyer sur les mots saisis pour les corriger</string>
+    <string name="prefs_enable_recorrection">Re-suggérer</string>
+    <string name="prefs_enable_recorrection_summary">L\'appui sur un mot saisi réaffiche les suggestions</string>
     <string name="keyboard_layout">Thème du clavier</string>
-    <string name="layout_basic">Basic</string>
-    <string name="layout_high_contrast">Basic (constraté)</string>
-    <string name="layout_stone_bold">Stone (gras)</string>
-    <string name="layout_stone_normal">Stone (normal)</string>
+    <string name="layout_basic">Basique</string>
+    <string name="layout_high_contrast">Basique (Contrasté)</string>
+    <string name="layout_stone_bold">Stone (Gras)</string>
+    <string name="layout_stone_normal">Stone (Normal)</string>
     <string name="layout_gingerbread">Gingerbread</string>
-    <string name="subtype_mode_keyboard">clavier</string>
-    <string name="subtype_mode_voice">voix</string>
-    <string name="english_ime_debug_settings">Réglages débogage clavier Android</string>
+    <string name="subtype_mode_keyboard">Clavier</string>
+    <string name="subtype_mode_voice">Voix</string>
+    <string name="english_ime_debug_settings">Paramètres de débogage du clavier Android</string>
     <string name="prefs_debug_mode">Mode débogage</string>
+    <string name="key_amp">&amp;</string>
+    <string name="key_lt">&lt;</string>
+    <string name="key_popup_leftbrackets">[{&lt;</string>
+    <string name="key_popup_rightbrackets">]}></string>
 </resources>

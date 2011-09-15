@@ -54,7 +54,7 @@
     <string name="sort_by_frequency">Fréquence d\'utilisation</string>
     <string name="sort_by_abc">Par ordre alphabétique</string>
     <string name="encryption">Chiffrement</string>
-    <string name="preferences_title">Préférences</string>
+    <string name="preferences_title">Paramètres du lanceur</string>
     <string name="preferences_general_title">Paramètres généraux</string>
     <string name="pref_keep_in_memory_title">Garder en mémoire</string>
     <string name="pref_keep_in_memory_summary">Forcer le démarrage en mémoire</string>
@@ -64,7 +64,7 @@
     <string name="pref_enable_drawing_cache_summary">Désactiver cette option permettra de libérer plus de mémoire</string>
     <string name="pref_icon_shadow_title">Ombrage des icônes</string>
     <string name="pref_icon_shadow_summary">Activer/Désactiver l\'ombrage des icônes sur le bureau</string>
-    <string name="pref_screen_transformation_type_title">Effets de transition de sélection d\'écran</string>
+    <string name="pref_screen_transformation_type_title">Effets de transition entre écrans</string>
     <string name="transformation_type_classic">Classique</string>
     <string name="transformation_type_classic_no_overshoot">Classique (sans rebond)</string>
     <string name="transformation_type_crossfade">Fondu</string>

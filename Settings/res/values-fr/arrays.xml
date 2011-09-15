@@ -22,7 +22,7 @@
     <string-array name="animations_entries">
         <item>Non</item>
         <item>Peu</item>
-        <item>Tous</item>
+        <item><font size="10">Toutes</font></item>
     </string-array>
     <string-array name="access_control_privacy_mode_entries">
         <item>Désactivé</item>
@@ -88,11 +88,11 @@
         <item>8000</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>30 sec</item>
-        <item>1 min</item>
-        <item>5 min</item>
-        <item>10 min</item>
-        <item>Jamais</item>
+        <item>30s</item>
+        <item>1m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item><font size="14">&#8734;</font></item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>30000</item>
@@ -212,10 +212,10 @@
         <item>TTLS</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 Minutes</item>
-        <item>5 Minutes</item>
-        <item>1 Heure</item>
-        <item>Jamais</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>1 heure</item>
+        <item>Sans limite</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_values">
         <item>twomin</item>
@@ -230,8 +230,8 @@
         <item>Excellente</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Lorsque l\'écran s\'éteint</item>
-        <item>Jamais si branché</item>
+        <item>Avec l\'écran</item>
+        <item>Jamais en charge</item>
         <item>Jamais</item>
     </string-array>
     <string-array name="wifi_sleep_policy_values">

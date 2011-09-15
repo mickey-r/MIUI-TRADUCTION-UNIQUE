@@ -5,14 +5,14 @@
     <string name="theme_changing_dialog_title">Application du nouveau thème en cours...</string>
     <string name="theme_changed_message">Configuration réussie!</string>
     <string name="theme_changed_failed_message">Oups, configuration échouée!</string>
-    <string name="backup_preference_title">Sauvegarder les paramètres du thème courant</string>
+    <string name="backup_preference_title">Enregistrer les personnalisations</string>
     <string name="backup_theme_dialog_ok">Ok</string>
-    <string name="backup_theme_dialog_message">Sauvegarder le thème actuel sur la carte SD :\n\\MIUI\\theme\\backup\\backup.mtz</string>
+    <string name="backup_theme_dialog_message">Enregistrer sur la carte SD dans :\n\\MIUI\\theme\\backup\\backup.mtz</string>
     <string name="backup_theme_progress_message">Sauvegarde du thème, patience...</string>
     <string name="backup_theme_success_message">La sauvegarde a réussie!</string>
     <string name="theme_description_title_default">Par défaut</string>
     <string name="theme_description_title_customized">Personnalisé</string>
-    <string name="component_category_title">Changer le style local</string>
+    <string name="component_category_title">Personnaliser le thème</string>
     <string name="component_category_style_title">Eléments principaux</string>
     <string name="component_category_wallpaper_title">Fonds d\'écran</string>
     <string name="component_category_ringtone_title">Sonneries</string>

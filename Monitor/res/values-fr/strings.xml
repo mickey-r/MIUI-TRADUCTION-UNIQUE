@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Moniteur</string>
-    <string name="duration">Journal du %d/%d/%d au %d/%d/%d</string>
+    <string name="duration">Journal du %3$s/%2$s/%1$s au %6$s/%5$s/%4$s</string>
     <string name="sms_unit">SMS</string>
     <string name="mobile_unit">Mo</string>
     <string name="first_traffic_day">Premier jour de facturation</string>
