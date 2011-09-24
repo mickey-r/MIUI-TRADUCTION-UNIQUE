@@ -3,14 +3,14 @@
     <string name="voiceDialer">Num. Vocal</string>
     <string name="tool_tip_title">Saviez-vous…</string>
     <string name="tool_tip_message">Appuyer &amp; maintenir le bouton d\'Appel ouvre le numéroteur vocal.</string>
-    <string name="examples">\u0020Exemples: <b> \n\"Appeler Julien\" \n\"Appeler Julien à la maison, …\" \n\"Appeler la messagerie\" \n\"Appeler 0601020304\" \n\"Appeler le 112, …\" \n\"Appeler le +33 102030405\" \n\"Rappeler\" \n\"Ouvrir le calendrier\" </b>\u0020</string>
+    <string name="examples">\u0020Exemples: <b> \n\"Appeler Julien\" \n\"Appeler Julien à la maison, …\" \n\"Appeler la messagerie\" \n\"Appeler 0601020304\" \n\"Appeler le 112, …\" \n\"Appeler le +33102030405\" \n\"Rappeler\" \n\"Ouvrir l\'agenda\" </b>\u0020</string>
     <string name="title">Numéroteur Vocal</string>
     <string name="bluetooth_title">Numéroteur vocal bluetooth</string>
     <string name="initializing">Démarrage</string>
     <string name="listening">Parlez…</string>
     <string name="please_try_again">Réessayez SVP.</string>
     <string name="failure">Echec</string>
-    <string name="recognition_error">Vous pouvez essayer de redémarrer votre système.</string>
+    <string name="recognition_error">Redémarrez votre système.</string>
     <string name="headset_connection_lost">Connexion au kit main-libres perdue.</string>
     <string name="at_home">\u0020au domicile</string>
     <string name="on_mobile">\u0020sur mobile</string>

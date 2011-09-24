@@ -97,9 +97,9 @@
     <string name="delete_this_event_title">Cet événement va être supprimé.</string>
     <string name="delete_title">Supprimer</string>
     <string name="change_response_title">Modifier la réponse</string>
-    <string name="preferences_title">Paramètres</string>
-    <string name="preferences_general_title">Paramètres d\'affichage de l\'agenda</string>
-    <string name="preferences_alerts_title">Paramètres de rappel</string>
+    <string name="preferences_title">Paramètres de l\'agenda</string>
+    <string name="preferences_general_title">Affichage</string>
+    <string name="preferences_alerts_title">Rappel</string>
     <string name="preferences_hide_declined_title">Masquer évén. refusés</string>
     <string name="preferences_alerts_type_title">Alertes et notifications</string>
     <string name="preferences_alerts_type_dialog">Alertes et notifications</string>

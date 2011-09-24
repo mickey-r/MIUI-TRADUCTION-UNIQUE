@@ -188,6 +188,7 @@
     <string name="date_and_time_settings_title">Date et heure</string>
     <string name="date_time_auto">Synchroniser</string>
     <string name="date_time_auto_summary">Synchronise la date et l\'heure via les connexions de données et/ou Wi-Fi</string>
+    <string name="date_time_sync_when_startup">Synchroniser l\'heure au démarrage</string>
     <string name="date_time_24hour">Utiliser le format 24 h</string>
     <string name="date_time_set_time">Définir l\'heure</string>
     <string name="date_time_set_timezone">Définir le fuseau horaire</string>
@@ -346,12 +347,13 @@
     <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
     <string name="wifi_unchanged">(aucune modification)</string>
     <string name="wifi_unspecified">(non spécifié)</string>
-    <string name="wifi_remembered">Réseaux enregistrés</string>
+    <string name="wifi_remembered">Réseau enregistré</string>
     <string name="wifi_disabled">Désactivé</string>
     <string name="wifi_not_in_range">Hors de portée</string>
     <string name="wifi_secured">Sécurisé par %1$s</string>
     <string name="wifi_secured_with_status">%2$s, sécurisé par %1$s</string>
     <string name="wifi_connect">Se connecter</string>
+    <string name="wifi_setting">Réglage</string>
     <string name="wifi_forget">Retirer</string>
     <string name="wifi_save">Enregistrer</string>
     <string name="wifi_cancel">Annuler</string>
@@ -520,6 +522,10 @@
     <string name="master_clear_title">Restaurer valeurs d\'usine</string>
     <string name="master_clear_summary">Effacer toutes les données du téléphone</string>
     <string name="master_clear_desc">Toutes les données de votre téléphone vont être supprimées, en particulier :\n<li>votre compte Google</li>\n<li>les paramètres et données des applications et du système </li>\n<li>les applications téléchargées</li>\nLes éléments suivants ne seront pas supprimés :\n<li>les logiciels système actuels et les applications pré-installées </li>\n<li>les fichiers présents sur la carte SD (par ex. photos et musique)</li></string>
+    <string name="wipe_user_data">Effacer les données utilisateur</string>
+    <string name="wipe_user_data_desc">Toutes les données utilisateur de votre téléphone seront effacées, y compris:\n<li>Vos comptes</li>\n<li>Applications et paramètres système</li>\n\nEn revanche cela n\'effacera pas:\n<li>Les applications système et utilisateur installées</li>\n<li>Les fichiers de la carte SD (musique, photos...)</li></string>
+    <string name="wipe_all_data">Effacer toutes les données</string>
+    <string name="wipe_all_data_desc">Cela effacera toutes les données utilisateur et:\n<li>Toutes les applications installées</li>\nVotre téléphone reviendra en configuration d\'origine\n(Les applications préinstallées peuvent être téléchargées depuis SuperMarket)\n\nCela n\'effacera pas:\n<li>Les fichiers de la carte SD (musique, photos...)</li></string>
     <string name="master_clear_button_text">Réinitialiser le téléphone</string>
     <string name="master_clear_final_desc">Effacer toutes vos infos personelles et vos programmes téléchargés? Cette action est irréversible!</string>
     <string name="master_clear_gesture_prompt">Saisissez votre schéma de déverrouillage</string>
@@ -843,7 +849,7 @@
     <string name="battery_desc_voice">Batterie utilisée par les appels vocaux</string>
     <string name="battery_desc_standby">Batterie utilisée lorsque le téléphone est inactif</string>
     <string name="battery_desc_radio">Batterie utilisée par le signal de cellule GSM</string>
-    <string name="battery_sugg_radio">Passez en mode Avion pour économiser la batterie dans les zones sans couverture cellulaire.</string>
+    <string name="battery_sugg_radio">Passez en mode avion pour économiser la batterie dans les zones sans couverture cellulaire.</string>
     <string name="battery_desc_display">Batterie utilisée par l\'affichage et le rétro-éclairage</string>
     <string name="battery_sugg_display">Réduire la luminosité et/ou le délai de mise en veille de l\'écran</string>
     <string name="battery_desc_wifi">Batterie utilisée par le Wi-Fi</string>
@@ -878,7 +884,7 @@
     <string name="tts_play_example_title">Écouter un échantillon</string>
     <string name="tts_play_example_summary">Lire une courte démonstration de la synthèse vocale</string>
     <string name="tts_install_data_title">Installer des voix</string>
-    <string name="tts_install_data_summary">Ajoute des voix supplémentaire utilisable par le moteur de synthèse vocale</string>
+    <string name="tts_install_data_summary">Ajoute des voix supplémentaires utilisables par le moteur de synthèse vocale</string>
     <string name="tts_demo">Voici un échantillon de synthèse vocale.</string>
     <string name="tts_engine_security_warning">Ce moteur de synthèse vocale est susceptible de collecter tout ce que vous direz, y compris les données personnelles comme les mots de passe et les numéros de carte de paiement. Il provient du moteur %s. Voulez-vous activer son utilisation ?</string>
     <string name="tts_engines_section">Moteurs</string>
@@ -891,6 +897,7 @@
     <string name="vpn_a_username">un nom d\'utilisateur</string>
     <string name="vpn_a_password">un mot de passe</string>
     <string name="vpn_save_username">Mémoriser le nom d\'utilisateur</string>
+    <string name="vpn_save_password">Mémoriser mot de passe</string>
     <string name="vpn_connect_button">Se connecter</string>
     <string name="vpn_yes_button">Oui</string>
     <string name="vpn_no_button">Non</string>
@@ -1089,6 +1096,7 @@
     <string name="camera_key_action_shortcut_screenshot">Capture d\'écran</string>
     <string name="camera_key_action_shortcut_search">Rechercher</string>
     <string name="camera_key_action_shortcut_call">Appeler</string>
+    <string name="camera_key_action_shortcut_wake">Activer l\'écran</string>
     <string name="trackball_wake_title">Réveil par Trackball</string>
     <string name="device_cpu2_info">Double coeur</string>
     <string name="install_development_settings_title">Installation et débogage</string>
@@ -1161,7 +1169,7 @@
     <string name="lockpassword_confirm_previous_password_header">Entrez votre ancien mot de passe</string>
     <string name="gmail_settings_title">Gmail</string>
     <string name="gtalk_settings_title">Google Talk</string>
-    <string name="calendar_settings_title">Calendrier</string>
+    <string name="calendar_settings_title">Agenda</string>
     <string name="mms_settings_title">SMS/MMS</string>
     <string name="browser_settings_title">Navigateur</string>
     <string name="launcher_settings_title">Lanceur</string>
@@ -1249,9 +1257,9 @@
     <string name="compatibility_mode_toggle_on">Activer</string>
     <string name="compatibility_mode_toggle_off">Désactiver</string>
     <string name="auto_agps">Utiliser l\'aGPS</string>
-    <string name="auto_agps_sum">Une fois activé, l\'éphémérides du positionnement des satellites sera téléchargé hebdomadairement en utilisant automatiquement les réseaux Wi-Fi et/ou GSM</string>
+    <string name="auto_agps_sum">Une fois activé, l\'éphéméride du positionnement des satellites sera téléchargé hebdomadairement en utilisant automatiquement les réseaux Wi-Fi et/ou GSM</string>
     <string name="gps_config_title">Configuration du serveur aGPS</string>
-    <string name="gps_config_summary">La paramètres du serveur aGPS peuvent être modifiés ici.</string>
+    <string name="gps_config_summary">Les paramètres du serveur aGPS peuvent être modifiés ici.</string>
     <string name="gps_config_ntp_server">Adresse du serveur NTP:</string>
     <string name="gps_config_supl_host">Serveur SUPL:</string>
     <string name="gps_config_supl_port">Port Serveur SUPL:</string>

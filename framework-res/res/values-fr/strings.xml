@@ -292,9 +292,9 @@
     <string name="global_action_toggle_silent_mode">Mode silencieux</string>
     <string name="global_action_silent_mode_on_status">Le son est désactivé.</string>
     <string name="global_action_silent_mode_off_status">Le son est activé.</string>
-    <string name="global_actions_toggle_airplane_mode">Mode Avion</string>
-    <string name="global_actions_airplane_mode_on_status">Le mode Avion est activé.</string>
-    <string name="global_actions_airplane_mode_off_status">Le mode Avion est désactivé.</string>
+    <string name="global_actions_toggle_airplane_mode">Mode avion</string>
+    <string name="global_actions_airplane_mode_on_status">Le mode avion est activé.</string>
+    <string name="global_actions_airplane_mode_off_status">Le mode avion est désactivé.</string>
     <string name="safeMode">Mode sécurisé</string>
     <string name="android_system_label">Système Android</string>
     <string name="permgrouplab_costMoney">Services payants</string>
@@ -806,7 +806,7 @@
     <string name="volume_ringtone_mute">Sonnerie muette</string>
     <string name="volume_notification_mute">Notification muette</string>
     <string name="ringtone_default">Sonnerie par défaut</string>
-    <string name="ringtone_default_with_actual">Sonnerie par défaut (%1$s)</string>
+    <string name="ringtone_default_with_actual">%1$s</string>
     <string name="ringtone_silent">Silencieux</string>
     <string name="ringtone_picker_title">Sonneries</string>
     <string name="ringtone_unknown">Sonnerie inconnue</string>
@@ -1317,7 +1317,7 @@
     <string name="invalid_url">URL invalide:</string>
     <string name="resource_delete_confirm">Confirmez vous la suppression?</string>
     <string name="all_resources">Tous les %1$s</string>
-    <string name="resource_default_name">Nom par défaut</string>
+    <string name="resource_default_name">Ressources</string>
     <string name="resource_detail">Détails</string>
     <string name="keyguard_incorrect_pin_with_retry_count">Code erroné. Il vous reste %d essais.</string>
     <string name="lockscreen_unlock_sim_via_puk">Utilisez le code PUK pour débloquer la carte SIM</string>

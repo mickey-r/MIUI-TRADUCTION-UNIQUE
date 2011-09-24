@@ -48,6 +48,10 @@
     <string name="user_id">Nom d\'utilisateur</string>
     <string name="user_detail">Ma carte</string>
     <string name="user_nickname">Pseudo</string>
+    <string name="user_nickname_title">Associer un pseudo</string>
+    <string name="user_nickname_description">Le pseudo associé sera utilisé pour tous les services Xiaomi</string>
+    <string name="user_nickname_hint">Entrez le pseudo choisi ici</string>
+    <string name="user_nickname_button_verify">Vérification</string>
     <string name="user_email">E-mail</string>
     <string name="user_email_title">Adresse e-mail</string>
     <string name="user_email_description">Cette adresse sera utilisée pour vous identifier et récupérer vos identifiants</string>
@@ -76,6 +80,9 @@
     <string name="service_disabled">Service désactivé</string>
     <string name="service_unavailable">Service indisponible</string>
     <string name="network_error">Erreur réseau</string>
+    <string name="has_bound">Le pseudo est déjà utilisé</string>
+    <string name="nickname_exist">Le pseudo choisi est déjà utilisé</string>
+    <string name="has_nick">Votre compte a déjà un pseudo associé</string>
     <string name="unknown">Inconnu</string>
     <string name="sending_bind_request">Requête en cours</string>
     <string name="bind_phone_dialog_title">Associer un numéro</string>

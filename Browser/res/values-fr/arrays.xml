@@ -10,9 +10,9 @@
         <item>Pas de page internet trouvée</item>
     </string-array>
     <string-array name="pref_load_images_choice">
-        <item>Activer</item>
-        <item>Désactiver</item>
-        <item>Activer en Wi-Fi</item>
+        <item>Activé</item>
+        <item>Désactivé</item>
+        <item>Activé en Wi-Fi</item>
     </string-array>
     <string-array name="pref_load_images_choice_value">
         <item>ON</item>
@@ -21,7 +21,7 @@
     </string-array>
     <string-array name="pref_volume_setting_choice">
         <item>Par défaut</item>
-        <item>Faites défiler la page</item>
+        <item>Défilement page</item>
         <item>Changement Onglet</item>
     </string-array>
     <string-array name="pref_volume_setting_choice_value">
@@ -30,8 +30,8 @@
         <item>SWITCH_TAB</item>
     </string-array>
     <string-array name="pref_volume_setting_enable_choice">
-        <item>Toujours appliquer les réglages du bouton de volume</item>
-        <item>Appliquer seulement hors lecture d\'une musique</item>
+        <item>Toujours</item>
+        <item>Seul. sans musique</item>
     </string-array>
     <string-array name="pref_volume_setting_enable_choice_value">
         <item>ALWAYS</item>
@@ -102,9 +102,9 @@
         <item>AUTO</item>
     </string-array>
     <string-array name="pref_simple_mode_choices">
-        <item>Désactiver</item>
-        <item>Activer</item>
-        <item>Activer hors connexion Wi-Fi</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+        <item>Activé hors connexion Wi-Fi</item>
     </string-array>
     <string-array name="pref_simple_mode_values">
         <item>OFF</item>

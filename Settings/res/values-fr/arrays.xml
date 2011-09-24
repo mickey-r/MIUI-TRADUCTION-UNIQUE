@@ -68,7 +68,6 @@
         <item>\#add8e6</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>9 sec</item>
         <item>2 sec</item>
         <item>3 sec</item>
         <item>4 sec</item>
@@ -76,9 +75,9 @@
         <item>6 sec</item>
         <item>7 sec</item>
         <item>8 sec</item>
+        <item>9 sec</item>
     </string-array>
     <string-array name="led_freq_values">
-        <item>9000</item>
         <item>2000</item>
         <item>3000</item>
         <item>4000</item>
@@ -86,12 +85,13 @@
         <item>6000</item>
         <item>7000</item>
         <item>8000</item>
+        <item>9000</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>30s</item>
-        <item>1m</item>
-        <item>5m</item>
-        <item>10m</item>
+        <item><font size="12">1min</font></item>
+        <item><font size="12">5min</font></item>
+        <item><font size="12">10min</font></item>
         <item><font size="14">&#8734;</font></item>
     </string-array>
     <string-array name="screen_timeout_values">

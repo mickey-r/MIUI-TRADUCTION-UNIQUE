@@ -108,6 +108,7 @@
     <string name="sc_service_unavailable">Cloud service n\'est pas disponible</string>
     <string name="sc_unauthorized">Le certificat n\'est pas valide</string>
     <string name="sc_request_timeout">La requête a expirée</string>
+    <string name="sc_precondition_failed">Votre compte XIAOMI n\'est associé à aucune adresse e-mail</string>
     <string name="sc_internal_server_error">Erreur interne du serveur</string>
     <string name="sc_others">Exception du programme</string>
     <string name="task_backup_succeed">sauvegarde: succès</string>
@@ -123,9 +124,9 @@
     <string name="restore_contact_content">La restauration du carnet d\'adresse peut conduire à duplication de certaines fiches. Etes-vous sur de vouloir restaurer ce carnet d\'adresses ?\nNote: Vous pouvez fusionner les contacts en double à partir des paramètres du carnet d\'adresses.</string>
     <string name="progress_restore_hint">Restauration des données</string>
     <string name="cancel_restore">Annuler</string>
-    <string name="local_backup_hint">Sauvegarde des contacts, messages texte, paramètres et données du programme système\nVous pouvez également enregistrer les APK et les données des programmes\nVous pouvez restaurer les anciens journaux</string>
     <string name="local_select_sysdata">Données système</string>
     <string name="local_select_userapp">Programmes</string>
+    <string name="local_no_backup">Aucune sauvegarde locale</string>
     <string name="auto_backup_setting_title">Sauvegarde automatique</string>
     <string name="auto_backup_open">Ouvrir la sauvegarde automatique</string>
     <string name="auto_backup_only_wifi">Sauvegarde automatique uniquement en Wi-Fi</string>
@@ -155,4 +156,9 @@
     <string name="cloud_item_info_summary">(Locale %1$s | En ligne %2$s)</string>
     <string name="total_num">%d enregistrement(s) au total</string>
     <string name="cloud_restore_guide">Cliquez sur Restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
+    <string name="import_from_xiaomi_account_hint1">1.	Prenez un téléphone qui contient vos contacts\n\n2.	Installer MiTalk et connectez-vous.\n	http://www.miliao.com\n\n3.	Entrez dans les paramètres de MiTalk et choisissez ”Sauvegarder mes contacts sur mon compte Xiaomi”</string>
+    <string name="import_from_xiaomi_account_hint2">Note: Allez à l\'étape suivante si une sauvegarde de vos contacts existe déjà.</string>
+    <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder vos contacts sur d\'autres appareils sauf le Mi-One.</string>
+    <string name="guarded_mode_dialog_title">Mode privé</string>
+    <string name="guarded_mode_dialog_message">Pas de sauvegarde ou de restauration possible en mode privé</string>
 </resources>

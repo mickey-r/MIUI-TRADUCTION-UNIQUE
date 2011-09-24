@@ -111,20 +111,20 @@
     <string name="edit">Modifier</string>
     <string name="resize">Redimensionner</string>
     <string name="try_to_send">Essayer d\'envoyer</string>
-    <string name="preferences_title">Paramètres</string>
-    <string name="pref_notification_settings_title">Paramètres de notification</string>
+    <string name="preferences_title">Paramètres SMS/MMS</string>
+    <string name="pref_notification_settings_title">Notification</string>
     <string name="pref_mms_settings_title">Paramètres des MMS</string>
     <string name="pref_sms_storage_title">Paramètres de stockage</string>
     <string name="pref_summary_manage_sim_messages">Gérer les messages stockés sur votre carte SIM</string>
     <string name="pref_summary_mms_read_reports">Demander une confirmation de lecture pour chaque message envoyé</string>
     <string name="pref_summary_auto_delete">Supprimer lorsque les limites suivantes sont atteintes</string>
-    <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
+    <string name="pref_summary_delete_limit">%1$s par conversation</string>
     <string name="pref_title_manage_sim_messages">Gestion messages carte SIM</string>
     <string name="pref_title_mms_read_reports">Confirmations de lecture</string>
     <string name="pref_title_auto_delete">Anciens messages</string>
-    <string name="pref_title_sms_delete">Limite pour les SMS</string>
-    <string name="pref_title_mms_delete">Limite pour les MMS</string>
-    <string name="pref_title_notification_enabled">Notifications</string>
+    <string name="pref_title_sms_delete">Limite SMS</string>
+    <string name="pref_title_mms_delete">Limite MMS</string>
+    <string name="pref_title_notification_enabled">Activer notifications</string>
     <string name="pref_title_notification_ringtone">Sonnerie</string>
     <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
     <string name="pref_title_mms_auto_retrieval">Récupération auto</string>
@@ -332,7 +332,7 @@
     <string name="pref_summary_ringtone_repeat">Rappel des nouveaux messages par vibration toutes les 5 minutes</string>
     <string name="pref_other_title">Autres</string>
     <string name="pref_advanced_settings_title">Paramètres avancés</string>
-    <string name="pref_title_delivery_ringtone">Notification des accusés réception</string>
+    <string name="pref_title_delivery_ringtone">Accusés récep.</string>
     <string name="pref_title_allow_3rd_mms">Applications tierces de messagerie</string>
     <string name="pref_summary_allow_3rd_mms">Autoriser des applications tierces à accéder aux SMS</string>
     <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
@@ -368,4 +368,5 @@
     <string name="text_in_popup_saved_to_clipboard">Le texte édité dans la fenêtre de prévisualisation a été copié dans le presse-papiers</string>
     <string name="guild_add_recipients">Cliquez ici pour ajouter les destinataires au carnet d\'adresses</string>
     <string name="guild_add_attachments">Cliquez ici pour ajouter pièces jointes ou smileys au message</string>
+    <string name="privacy_mode_hint">Impossible d\'envoyer un SMS en mode privé</string>
 </resources>

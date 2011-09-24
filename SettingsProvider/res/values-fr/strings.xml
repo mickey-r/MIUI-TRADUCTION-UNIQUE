@@ -11,5 +11,6 @@
     <string name="def_car_undock_sound">/system/media/audio/ui/Undock.ogg</string>
     <string name="def_lock_sound">/system/media/audio/ui/Lock.ogg</string>
     <string name="def_unlock_sound">/system/media/audio/ui/Unlock.ogg</string>
+    <string name="def_headset_and_a2dp_volume">[5,7,5,11,5,5,7]</string>
     <string name="app_label">Paramètres de stockage</string>
 </resources>

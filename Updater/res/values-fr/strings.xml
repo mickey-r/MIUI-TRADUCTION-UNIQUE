@@ -59,7 +59,7 @@
     <string name="new_updates_found_title">Nouvelle mise à jour détectée</string>
     <string name="new_update_content_title">Une mise à jour est disponible: %s</string>
     <string name="update_success_title">Vous avez la dernière version!</string>
-    <string name="update_success_body_title">Vous possédez déjà la version la plus récente du système</string>
+    <string name="update_success_body">Mise à jour %s réussie</string>
     <string name="exception_while_downloading">Problème pendant le téléchargement</string>
     <string name="new_updates_found_body">De nouvelles mises à jour ont été détectées</string>
     <string name="new_updates_found_notification_title">Mises à jour disponibles!</string>
@@ -93,5 +93,5 @@
     <string name="install_whole_rom">Installer la rom complète</string>
     <string name="check_update_policy">Vérifier le md5sum</string>
     <string name="check_update_when_wifi_available">Vérifier les MàJ qu\'en Wi-Fi</string>
-    <string name="install_file_explorer">Installer un gestionnaire de fichiers</string>
+    <string name="install_file_explorer">Installez un gestionnaire de fichiers</string>
 </resources>

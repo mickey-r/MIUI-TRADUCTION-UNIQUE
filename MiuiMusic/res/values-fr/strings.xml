@@ -31,12 +31,6 @@
     <string name="playlist_renamed_message">La playlist a été renommée.</string>
     <string name="recentlyadded">Pistes récemment ajoutées</string>
     <string name="recentlyadded_title">Ajouter piste</string>
-    <string name="sdcard_missing_title">Pas de carte SD</string>
-    <string name="sdcard_missing_message">Aucune carte SD trouvée dans l\'appareil</string>
-    <string name="sdcard_busy_title">La carte SD est indisponible.</string>
-    <string name="sdcard_busy_message">la carte SD est occupée.</string>
-    <string name="sdcard_error_title">Erreur de carte CD</string>
-    <string name="sdcard_error_message">La carte SD a un problème.</string>
     <string name="unknown_artist_name">Artiste Inconnu</string>
     <string name="unknown_album_name">Album Inconnu</string>
     <string name="ringtone_menu">Sonneries</string>
@@ -88,8 +82,8 @@
     <string name="refresh_start">Démarrer actualisation</string>
     <string name="batch_operation_confirm">Confirmez: %1$s à %2$d?</string>
     <string name="batch_operation_one_song_confirm">Confirmez: %s?</string>
-    <string name="to_artist">Artiste</string>
-    <string name="to_album">Album</string>
+    <string name="to_artist">Artistes</string>
+    <string name="to_album">Albums</string>
     <string name="to_track">Piste</string>
     <string name="to_search">Recherche</string>
     <string name="my_music">Sur la carte SD</string>
@@ -166,7 +160,7 @@
     <string name="rename_playlist_same_name">“%s”existe déjà</string>
     <string name="start_play_shuffle">Lecture aléatoire</string>
     <string name="no_track_to_played">Aucune piste à jouer</string>
-    <string name="folder">Dossier</string>
+    <string name="folder">Dossiers</string>
     <string name="music_filter_helper">Afin d\'améliorer l\'expérience musicale, les fichiers de moins de 800Ko seront automatiquement supprimés, car ils ne sont généralement pas des chansons. Vous pouvez régler le seuil ou désactiver la fonction de filtre dans le paramétrage.</string>
     <string name="min_muisic_size">Taille mini</string>
     <string name="music_filter">Filtrage</string>

@@ -10,6 +10,7 @@
         <item>Dictaphone</item>
         <item>Navigateur</item>
         <item>Appareil photo</item>
+        <item>Explorateur</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contacts</item>

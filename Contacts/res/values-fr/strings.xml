@@ -88,6 +88,8 @@
     <string name="recentCalls_empty">Le journal d\'appels est plein.</string>
     <string name="clearCallLogConfirmation_title">Effacer le journal d\'appels</string>
     <string name="clearCallLogConfirmation">Voulez-vous vraiment effacer le journal d\'appels ?</string>
+    <string name="clearOneCallLogConfirmation">Voulez-vous vraiment effacer cet appel du journal?</string>
+    <string name="clearGroupCallLogConfirmation">Voulez-vous vraiment effacer ce groupe du journal d\'appels?</string>
     <string name="imei">Code IMEI</string>
     <string name="meid">MEID</string>
     <string name="voicemail">Messagerie vocale</string>
@@ -255,6 +257,7 @@
     <string name="search_results_searching">Recherche en cours...</string>
     <string name="menu_display_all">Afficher tous les contacts</string>
     <string name="menu_display_only_phones">Afficher uniquement les contacts avec un numéro de téléphone</string>
+    <string name="menu_sim_contact">Contacts de la carte SIM</string>
     <string name="openDialKeyboard">Pavé numérique</string>
     <string name="openDialer">Téléphone</string>
     <string name="nameContactsCount">Rechercher %d Contacts</string>
@@ -313,6 +316,7 @@
     <string name="callrecordview_menu_show_accepted">Afficher uniquement les appels reçus</string>
     <string name="callrecordview_menu_show_stranger">Afficher uniquement les appels inconnus</string>
     <string name="callrecordview_menu_delete_one">Effacer</string>
+    <string name="callrecordview_menu_delete_group">Effacer</string>
     <string name="callrecordview_menu_delete_all">Effacer tous les appels</string>
     <string name="callrecordview_menu_delete_missed">Effacer les appels manqués</string>
     <string name="callrecordview_menu_delete_called">Effacer les appels émis</string>
@@ -342,15 +346,10 @@
     <string name="noContactHelpTextAddStarred">Favoris</string>
     <string name="noContactHelpTextAddMember">Ajouter des membres au groupe</string>
     <string name="importFromXiaomiAccountLabel">Restaurer depuis MIUI Backup</string>
-    <string name="importFromXiaomiAccountStep1">Utilisez MiTalk pour sauvegarder vos contacts sur d\'autres téléphones, sauf le MI-ONE</string>
-    <string name="importFromXiaomiAccountStep1Text">1.	Prenez un téléphone contenant vos contacts\n\n2.	Installez MiTalk et connectez vous.\n	http://www.miliao.com\n\n3.	Entrer dans MiTalk et choisissez "Sauvegarder les contacts dans votre compte Xiaomi."</string>
-    <string name="importFromXiaomiAccountStep1Text2">Note: Allez à l\'étape suivante si vous avez déjà sauvegardé vos contacts.</string>
     <string name="noContactHelpTextAccounts">Configurer les comptes</string>
     <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Google et Exchange.</string>
     <string name="noContactHelpTextImportXiaomiAccount">Restaurer depuis une sauvegarde en ligne</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer des données sauvegardées dans votre compte XIaomi et MiTalk</string>
-    <string name="btn_next">Suivant</string>
-    <string name="btn_back">Précédent</string>
     <string name="guide_popup_window_text">Vous pouvez choisir les contacts à importer depuis [Paramètres]>[Importer].</string>
     <string name="simCard">Carte SIM</string>
     <string name="export_to_sim">Exporter vers la carte SIM</string>
@@ -381,7 +380,7 @@
     <string name="view_contact_sms">SMS</string>
     <string name="view_contact_number_call_confirm">Appeler</string>
     <string name="view_contact_number_sms_confirm">Envoyer un message</string>
-    <string name="edit_contact_card_delete">supprimer le contact</string>
+    <string name="edit_contact_card_delete">Supprimer le contact</string>
     <string name="sip_address">SIP</string>
     <string name="contact_pick_photo">Sélectionner une image</string>
     <string name="quick_contact_send_sms">SMS</string>
@@ -423,6 +422,7 @@
     <string name="birthday_remind">Rappel d\'anniversaire</string>
     <string name="birthday_remind_notify">Aujourd\'hui %s fête son %s, n\'oubliez pas de lui souhaiter et/ou de lui offrir un cadeau</string>
     <string name="birthday_remind_3days_notify">Il reste 3 jours avant que %s fête son %s, n\'oubliez pas de lui acheter une carte et/ou un cadeau</string>
+    <string name="dialer_empty_text_loading">Chargement...</string>
     <string name="dialer_empty_text_no_call_log">Pas d\'enregistrements d\'appel</string>
     <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
     <string name="menu_remove_duplicate">Supprimer les doublons</string>

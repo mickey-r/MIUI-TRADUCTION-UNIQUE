@@ -14,7 +14,9 @@
     <string name="registered_account">Nom d\'utilisateur enregistré</string>
     <string name="bad_username">Format incorrect</string>
     <string name="bad_verification">Format incorrect</string>
+    <string name="bad_vkey">Code de vérification erroné</string>
     <string name="bad_authentication">Le nom d\'utilisateur et le mot de passe ne correspondent pas</string>
+    <string name="too_many_times">Enregistré trop de fois</string>
     <string name="email_not_verified">L\'E-mail n\'a pas été vérifié</string>
     <string name="terms_not_agreed">Accepter les termes</string>
     <string name="account_deleted">Compte supprimé</string>
@@ -23,7 +25,10 @@
     <string name="service_unavailable">Service non disponible</string>
     <string name="network_error">Erreur de connexion réseau</string>
     <string name="has_bound">Etat inconnu</string>
+    <string name="nickname_exist">Le pseudo existe déjà</string>
+    <string name="has_nick">Un pseudo a déjà été enregistré pour ce compte</string>
     <string name="unknown">Erreur inconnue</string>
+    <string name="register_success">Enregistré avec succès</string>
     <string name="by_email">Par e-mail</string>
     <string name="by_mobile">Par mobile</string>
     <string name="mobile">Mobile</string>
@@ -31,6 +36,7 @@
     <string name="get_vercode">Obtenir un code de vérification</string>
     <string name="mobile_hint_text">Merci d\'entrer un numéro de téléphone valide</string>
     <string name="vercode_hint_text">Entrer le code de vérification reçu</string>
+    <string name="nickname_hint_text">Entrez le pseudo</string>
     <string name="password_hint_text">6~16 caractères</string>
     <string name="show_password">Afficher le mot de passe</string>
     <string name="create_now">Créer maintenant</string>
@@ -45,6 +51,7 @@
     <string name="loging_on">Connexion...</string>
     <string name="invalid_phone_number">Numéro de téléphone invalide</string>
     <string name="invalid_vercode">Entrez le code de vérification reçu</string>
+    <string name="invalid_nickname">Le pseudo est déjà utilisé ou est invalide.</string>
     <string name="invalid_password">Votre mot de passe doit contenir de 6 à 16 caractères</string>
     <string name="forget_password">Mot de passe oublié？</string>
     <string name="sending_request">Requête en cours...</string>

@@ -85,7 +85,8 @@
     <string name="package_uninstalled_failed_format">“%s” n\'a pu être désinstallé(e)</string>
     <string name="app_not_exist_in_server">L\'application n\'existe pas sur le serveur</string>
     <string name="choose_app_in_market">Choisir l\'application dans le market</string>
-    <string name="install_market_or_not">Installer Android Market, puis cette application？</string>
+    <string name="install_market_or_not">Installer Android Market</string>
+    <string name="install_market_then_install_app">Avant d\'installer \"%s\" veuillez installer l\'Android Market</string>
     <string name="market_installed">Android Market installé</string>
     <string name="install_app_or_not_format">Installer %s？</string>
     <string name="server_resp_bad_auth">L\'authentification a échouée</string>

@@ -24,8 +24,8 @@
     <string name="pref_title_record_type">Type de fichier</string>
     <string name="prefDialogTitle_recordType">Sélectionnez un type de fichier</string>
     <string name="prefDefault_recordType">audio/3gpp</string>
-    <string name="pref_title_enable_high_quality">Activer les enregistrements en haute qualité (leur poids sera plus élevé)</string>
-    <string name="pref_summary_enable_high_quality">Les fichiers audio en haute qualité peuvent être plus gros</string>
+    <string name="pref_title_enable_high_quality">Activer haute qualité</string>
+    <string name="pref_summary_enable_high_quality">Les fichiers audios en haute qualité peuvent être plus gros</string>
     <string name="pref_title_enable_sound_effect">Activer les effets sonores</string>
     <string name="pref_summary_enable_sound_effect">Jouer un son lorsque l\'état est changé</string>
     <string name="notification_recording">Enregistrement...</string>

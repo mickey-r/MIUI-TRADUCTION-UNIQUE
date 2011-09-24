@@ -15,6 +15,7 @@
     <string name="video_file_name_format">\'VID\'_dd-MM-yyyy_HHmmss</string>
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="burst_reach_count_limit">Limite du nombre de rafale atteinte.</string>
+    <string name="anti_shake_time_expired">Temps écoulé, prenez la photo.</string>
     <string name="details_ok">OK</string>
     <string name="switch_to_camera_lable">Appareil Photo</string>
     <string name="switch_to_video_lable">Vidéo</string>

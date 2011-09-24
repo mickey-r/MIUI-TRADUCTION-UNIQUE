@@ -76,8 +76,6 @@
     <string name="widget_gadget_player">Lecteur 4x4</string>
     <string name="buffering">Chargement…</string>
     <string name="emptyplaylist">La playlist est vide</string>
-    <string name="sdcard_missing_title">Carte SD absente</string>
-    <string name="sdcard_busy_title">Carte SD occupée</string>
     <string name="unknown_artist_name">Artiste Inconnu</string>
     <string name="global_search_hint">Cliquer sur Rechercher</string>
     <string name="widget_global_search">Recherche</string>

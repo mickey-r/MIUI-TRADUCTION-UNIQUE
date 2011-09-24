@@ -58,7 +58,7 @@
     <string name="show_suggestions">Afficher les suggestions</string>
     <string name="show_suggestions_summary">Suggère des mots du dictionnaire lors de la saisie</string>
     <string name="auto_complete">Saisie semi-automatique</string>
-    <string name="auto_complete_summary">Insére automatiquement la 1ère suggestion en appuyant sur la barre espace</string>
+    <string name="auto_complete_summary">Insère automatiquement la 1ère suggestion en appuyant sur la barre espace</string>
     <string name="prefs_settings_key">Touche paramètres</string>
     <string name="settings_key_mode_auto_name">Automatique</string>
     <string name="settings_key_mode_always_show_name">Toujours afficher</string>
