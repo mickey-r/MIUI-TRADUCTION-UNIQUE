@@ -108,7 +108,7 @@
     <string name="fw_get_in_vm_failed">Échec de la récupération et de l\'enregistrement des paramètres actuels du numéro de transfert.\nVoulez-vous tout de même changer d\'opérateur ?</string>
     <string name="no_change">Aucune modification n\'a été apportée.</string>
     <string name="sum_voicemail_choose_provider">Choisissez un service de messagerie vocale.</string>
-    <string name="voicemail_default">Opérateur</string>
+    <string name="voicemail_default">Mon opérateur</string>
     <string name="mobile_networks">Paramètres du réseau mobile</string>
     <string name="label_available">Réseaux disponibles</string>
     <string name="load_networks_progress">Recherche...</string>

@@ -66,7 +66,7 @@
     <string name="battery_info_health_unspecified_failure">Erreur inconnue</string>
     <string name="bluetooth">Activer le Bluetooth</string>
     <string name="bluetooth_visibility">Rendre visible</string>
-    <string name="bluetooth_is_discoverable">Votre téléphone est visible par d\'autres périphériques pendant %1$s secondes...</string>
+    <string name="bluetooth_is_discoverable">Votre téléphone est visible par d\'autres périphériques pendant %1$s secondes...</string>
     <string name="bluetooth_is_discoverable_always">Toujours visible</string>
     <string name="bluetooth_not_discoverable">Téléphone invisible aux autres périphériques</string>
     <string name="bluetooth_visibility_timeout">Durée de visibilité</string>
@@ -83,7 +83,7 @@
     <string name="bluetooth_not_connected">Associer ce périphérique</string>
     <string name="bluetooth_pairing">Association…</string>
     <string name="bluetooth_paired">Relié, mais pas connecté</string>
-    <string name="bluetooth_device">Mains libres/Casque</string>
+    <string name="bluetooth_device">Mains libres/casque</string>
     <string name="progress_scanning">Recherche</string>
     <string name="bluetooth_notif_ticker">Demande d\'association Bluetooth</string>
     <string name="bluetooth_notif_title">Demande d\'association</string>
@@ -103,7 +103,7 @@
     <string name="bluetooth_device_info_deviceInfo_text" />
     <string name="bluetooth_connection_permission_request">Demande de connexion Bluetooth</string>
     <string name="bluetooth_connection_notif_message">Toucher pour vous connecter à \"%1$s\"</string>
-    <string name="bluetooth_connection_dialog_text">Voulez vous vous connecter à \"%1$s\"?</string>
+    <string name="bluetooth_connection_dialog_text">Voulez-vous vous connecter à \"%1$s\"?</string>
     <string name="date_and_time">Paramètres date et heure</string>
     <string name="choose_timezone">Choisir fuseau horaire</string>
     <string name="default_date_format">dd/MM/yyyy</string>
@@ -149,8 +149,8 @@
     <string name="radio_info_band_mode_label">Choisir une bande radio</string>
     <string name="radio_info_network_type_label">Type de réseau :</string>
     <string name="radio_info_set_perferred_label">Définir le type de réseau préféré :</string>
-    <string name="radio_info_ping_ipaddr">Adr. IP du ping :</string>
-    <string name="radio_info_ping_hostname">Nom d\'hôte du ping (www.google.com) :</string>
+    <string name="radio_info_ping_ipaddr">Adr. IP ping :</string>
+    <string name="radio_info_ping_hostname">Nom de l\'hôte du ping (www.google.com) :</string>
     <string name="radio_info_http_client_test">Test du client HTTP :</string>
     <string name="ping_test_label">Effectuer un test de ping</string>
     <string name="radio_info_smsc_label">SMSC :</string>
@@ -1071,10 +1071,10 @@
     <string name="device_sdcard">Carte SD:</string>
     <string name="battery_level">Niveau de charge: %d</string>
     <string name="click_to_input">Cliquez pour écrire</string>
-    <string name="pc_connection_settings_title">Partage USB</string>
+    <string name="pc_connection_settings_title">Partage stockage</string>
     <string name="ask_user_usb_mode">Toujours demander</string>
     <string name="default_usb_mode">Réglage par défaut</string>
-    <string name="usb_mode_mount_storage">Activer le partage USB</string>
+    <string name="usb_mode_mount_storage">Partager le stockage</string>
     <string name="key_settings_title">Boutons</string>
     <string name="key_settings">Paramètres des boutons</string>
     <string name="back_long_press">Bouton [RETOUR]</string>

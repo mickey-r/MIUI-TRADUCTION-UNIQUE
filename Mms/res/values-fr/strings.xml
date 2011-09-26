@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="conversation_style">bubble</string>
-    <string name="prefDefault_ringtone_repeat">2</string>
+    <string name="prefDefault_ringtone_repeat">1</string>
     <string name="app_label">Messages</string>
     <string name="new_message">Nouveau message</string>
     <string name="menu_call_back">Appeler %s</string>
@@ -312,9 +312,9 @@
     <string name="delete_bookmark">Supprimer le favori</string>
     <string name="bookmark_confirm_delete_message">La sélection sera supprimée</string>
     <string name="phrase_list_title">Phrases prédéfinies</string>
-    <string name="new_phrase">Nouvelle phrase</string>
-    <string name="edit_phrase">Modifier une phrase existante</string>
-    <string name="new_phrase_hint">Entrer une nouvelle phrase</string>
+    <string name="new_phrase">Nouveau message rapide</string>
+    <string name="edit_phrase">Modifier la phrase</string>
+    <string name="new_phrase_hint">Entrer les phrases couramment utilisées</string>
     <string name="full_phrase">La phrase saisie dépasse 50 caractères</string>
     <string name="delete_phrase">Supprimer la phrase</string>
     <string name="phrase_confirm_delete_message">La phrase sélectionnée sera supprimée</string>

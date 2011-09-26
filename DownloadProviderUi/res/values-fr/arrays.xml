@@ -2,7 +2,7 @@
 <resources>
     <string-array name="download_filters">
         <item>Téléchargements directs</item>
-        <item>App Share</item>
+        <item>SuperMarket</item>
         <item>Musique</item>
         <item>Thèmes</item>
         <item>Navigateur</item>

@@ -15,7 +15,7 @@
     <string name="error_sdcard_access">Impossible d\'accèder à la carte SD</string>
     <string name="error_app_internal">Erreur interne à l\'application</string>
     <string name="error_mediadb_new_record">Impossible de sauvegarder le son enregistré</string>
-    <string name="default_record_name">sans nom</string>
+    <string name="default_record_name">enregistrement sans nom</string>
     <string name="menu_view_record_list">Voir la liste des enregistrements</string>
     <string name="menu_setting">Paramètres</string>
     <string name="delete_dialog_title">Voulez vous supprimez l\'enregistrement en cours ?</string>
@@ -30,7 +30,7 @@
     <string name="pref_summary_enable_sound_effect">Jouer un son lorsque l\'état est changé</string>
     <string name="notification_recording">Enregistrement...</string>
     <string name="notification_stopped">Enregistrement stoppé</string>
-    <string name="notification_warning">Espace de stockage faible(moins de %d minutes)...</string>
+    <string name="notification_warning">Espace libre faible (moins de %d minutes)...</string>
     <string name="record_list">Liste des enregistrements</string>
     <string name="sd_card_not_available">Carte SD indisponible</string>
     <string name="call_record">Enregistrement d\'appel</string>

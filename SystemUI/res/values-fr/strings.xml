@@ -22,9 +22,9 @@
     <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_date_format">EEEE d MMMM</string>
     <string name="status_bar_date_format_lock">EEEE d MMMM yyyy</string>
-    <string name="usb_mode_notification">Partage USB</string>
+    <string name="usb_mode_notification">Partage stockage</string>
     <string name="usb_mode_dont_ask">Ne plus demander</string>
-    <string name="usb_mode_mount_storage_title">Activer le partage USB?</string>
+    <string name="usb_mode_mount_storage_title">Partager le stockage via la connexion USB?</string>
     <string name="mount_storage">Oui</string>
     <string name="dismount_storage">Non</string>
     <string name="move_data_to_sdcard_title">Déplacer les données vers la carte SD</string>

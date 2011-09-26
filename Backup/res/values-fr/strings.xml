@@ -12,7 +12,7 @@
     <string name="backup_failed">La sauvegarde a échoué, veuillez réessayer</string>
     <string name="backup_recently">\u0020(dernière)</string>
     <string name="sdcard_unmounted">La carte SD n\'est pas présente, le programme va se fermer!</string>
-    <string name="backup_progress">Sauvegarde en cours...</string>
+    <string name="backup_progress">Sauvegarde en cours...\u0020</string>
     <string name="button_ok">OK</string>
     <string name="backup_finished">Sauvegarde terminée</string>
     <string name="backup_report">Rapport de sauvegarde</string>
@@ -92,7 +92,7 @@
     <string name="data_no_enough_space">Espace interne insuffisant, veuillez réessayer après nettoyage.</string>
     <string name="data_no_enough_space_warning">Espace interne inférieur à 30Mo, la restauration peut échouer, désirez-vous continuer ?</string>
     <string name="task_running_hint">Le service est en cours d\'exécution en arrière-plan, faire une sauvegarde et récupération plus tard!</string>
-    <string name="task_running_dialog">De sauvegarde et de récupération de fond est en cours, le voir, cliquez sur OK!</string>
+    <string name="task_running_dialog">Une tâche est actuellement en cours, pour continuer appuyez sur OK!</string>
     <string name="task_service_not_launched">Service de sauvegarde n\'est pas démarré, veuillez patientez!</string>
     <string name="task_local_backup_cancel_dialog">Sauvegarde locale en cours\nCliquer sur OK pour annuler</string>
     <string name="task_cloud_backup_cancel_dialog">Sauvegarde réseau en cours\nCliquer sur OK pour annuler</string>

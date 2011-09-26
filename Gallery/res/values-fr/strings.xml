@@ -82,8 +82,8 @@
     <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
     <string name="internal_camera_folder_display_name">PHOTOS</string>
     <string name="internal_miui_capture_screen_folder_display_name">CAPTURES</string>
-    <string name="miliao_folder_display_name">MiTalk</string>
-    <string name="miliao_painting_folder_display_name">Dessin MiTalk</string>
+    <string name="miliao_folder_display_name">MiChat</string>
+    <string name="miliao_painting_folder_display_name">Dessin MiChat</string>
     <string name="must_pick_file">Vous devez d\'abord sélectionner une image</string>
     <string name="play_video">Lire</string>
     <string name="set_lock_or_wallpaper">Définir comme fond d\'écran</string>

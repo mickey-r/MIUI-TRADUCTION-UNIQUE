@@ -29,7 +29,7 @@
     <string name="search_history_today">Rechercher dans l\'historique du jour</string>
     <string name="search_history_yesterday">Rechercher dans l\'historique d\'hier</string>
     <string name="default_web_search_engine_google">http://www.google.fr/m/search?q=</string>
-    <string name="default_web_search_engine_baidu">http://m.baidu.com/ssid=0/from=1269a/bd_page_type=1/s?word=</string>
+    <string name="default_web_search_engine_baidu">http://m.baidu.com/ssid=0/from=0/bd_page_type=1/s?word=</string>
     <string name="recent_dialog_buttonAppKiller_summary">MIUI a libéré votre mémoire de %1$s\n Quantité de mémoire à nouveau disponible: %2$s</string>
     <string name="recent_dialog_buttonAppKiller">Tuer</string>
     <string name="recent_dialog_buttonTaskManager">Gérer</string>

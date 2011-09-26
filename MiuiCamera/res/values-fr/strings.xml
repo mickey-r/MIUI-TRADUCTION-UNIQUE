@@ -128,9 +128,9 @@
     <string name="pref_camera_autoexposure_spot">Mesure spot</string>
     <string name="video_settings">Paramètres vidéos</string>
     <string name="pref_video_quality">Qualité vidéo</string>
-    <string name="pref_video_quality_720p">720P (30m)</string>
-    <string name="pref_video_quality_high">Élevée (30m)</string>
-    <string name="pref_video_quality_low">Faible (30m)</string>
+    <string name="pref_video_quality_720p">720P (30mn)</string>
+    <string name="pref_video_quality_high">Élevée (30mn)</string>
+    <string name="pref_video_quality_low">Faible (30mn)</string>
     <string name="pref_video_quality_mms">MMS (faible, 30s)</string>
     <string name="pref_video_continuous_focus">Focus continu</string>
     <string name="tag_coloreffect">COLOR_EFFECT_INDEX</string>
